@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="name" attr.type="string" for="node" id="d16" />
+  <key attr.name="type" attr.type="string" for="node" id="d15" />
+  <key attr.name="isPluging" attr.type="boolean" for="graph" id="d14" />
+  <key attr.name="isDiesel" attr.type="boolean" for="graph" id="d13" />
+  <key attr.name="horsepower" attr.type="double" for="graph" id="d12" />
+  <key attr.name="hasTurbo" attr.type="boolean" for="graph" id="d11" />
+  <key attr.name="target_market" attr.type="string" for="graph" id="d10" />
+  <key attr.name="controller" attr.type="int" for="graph" id="d9" />
+  <key attr.name="serie" attr.type="string" for="graph" id="d8" />
+  <key attr.name="designName" attr.type="string" for="graph" id="d7" />
+  <key attr.name="battery_type" attr.type="string" for="graph" id="d6" />
+  <key attr.name="price" attr.type="double" for="graph" id="d5" />
+  <key attr.name="engine_size" attr.type="double" for="graph" id="d4" />
+  <key attr.name="name" attr.type="string" for="graph" id="d3" />
+  <key attr.name="drive_wheels" attr.type="string" for="graph" id="d2" />
+  <key attr.name="cylinder" attr.type="int" for="graph" id="d1" />
+  <key attr.name="mpg" attr.type="double" for="graph" id="d0" />
+  <graph edgedefault="undirected">
+    <data key="d0">47.597537385</data>
+    <data key="d1">3</data>
+    <data key="d2">4wd</data>
+    <data key="d3">gnp_random_graph(1,0)</data>
+    <data key="d4">3.2</data>
+    <data key="d5">28.7455673125</data>
+    <data key="d6">Li-ion polymer</data>
+    <data key="d7">1st Example</data>
+    <data key="d8">Alpha-00D5A0BD</data>
+    <data key="d9">7</data>
+    <data key="d10">South America</data>
+    <data key="d11">True</data>
+    <data key="d12">241.0</data>
+    <data key="d13">True</data>
+    <data key="d14">True</data>
+    <node id="0">
+      <data key="d15">nodetypeA</data>
+      <data key="d16">node0</data>
+    </node>
+    <node id="1">
+      <data key="d15">nodetypeB</data>
+      <data key="d16">node1</data>
+    </node>
+    <node id="2">
+      <data key="d15">nodetypeB</data>
+      <data key="d16">node2</data>
+    </node>
+    <node id="3">
+      <data key="d15">nodetypeB</data>
+      <data key="d16">node3</data>
+    </node>
+    <node id="4">
+      <data key="d15">nodetypeA</data>
+      <data key="d16">node4</data>
+    </node>
+    <node id="5">
+      <data key="d15">nodetypeA</data>
+      <data key="d16">node5</data>
+    </node>
+    <node id="6">
+      <data key="d15">nodetypeB</data>
+      <data key="d16">node6</data>
+    </node>
+    <node id="7">
+      <data key="d15">nodetypeA</data>
+      <data key="d16">node7</data>
+    </node>
+    <node id="8">
+      <data key="d15">nodetypeB</data>
+      <data key="d16">node8</data>
+    </node>
+    <edge source="0" target="0" />
+    <edge source="0" target="2" />
+    <edge source="1" target="8" />
+    <edge source="1" target="3" />
+    <edge source="2" target="8" />
+    <edge source="2" target="5" />
+    <edge source="2" target="6" />
+    <edge source="3" target="8" />
+    <edge source="3" target="3" />
+    <edge source="3" target="4" />
+    <edge source="3" target="5" />
+    <edge source="4" target="4" />
+    <edge source="4" target="7" />
+    <edge source="6" target="6" />
+    <edge source="7" target="8" />
+    <edge source="8" target="8" />
+  </graph>
+</graphml>
