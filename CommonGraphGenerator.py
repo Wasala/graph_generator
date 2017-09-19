@@ -69,12 +69,19 @@ class CommonGraphGenerator:
         return generated_graph
 
     def add_attributes_to_nodes(self):
+        """
+        private method that attaches some attributes for nodes (e.g. node type, node name)
+        node type is randomly assigned and computed from GraphParameters class.
+        """
         for node in self.current_graph.nodes():
             node_type = GraphParameters.get_node_type()
             self.current_graph.node[node]["type"] = node_type
             self.current_graph.node[node]["name"] = "node"+str(node)
 
     def list_nodes(self):
+        """
+        This is for debugging purpose. This one lists all the nodes and their types in the console.
+        """
         for node in self.current_graph.nodes():
             print "node %d - type = %s" % (node, self.current_graph.node[node]["type"])
 

@@ -16,12 +16,15 @@ class GraphParameters:
     ##hasTurbo: randomly {true | false }
     ##isPlugIn : randomly { true | false }
     """
+
     NODE_TYPES = ["nodetypeA", "nodetypeB"]
     TARGET_MARKETS = ["Europe" , "Asia" , "South America"]
     BATTERY_TYPE = ["Li-ion polymer" , "Lithium-Ion", "VRLA, NiCd" ]
     DRIVE_WHEELS = ["fwd" , "4wd", "rwd" ]
     SERIE = set()
     design_counter = 0
+
+
 
     @staticmethod
     def get_node_type():

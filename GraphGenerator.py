@@ -105,7 +105,7 @@ class GraphGenerator:
         self.current_graph.graph['controller'] = GraphParameters.get_controller()
         self.current_graph.graph['isDiesel'] = GraphParameters.get_is_diesel()
         self.current_graph.graph['hasTurbo'] = GraphParameters.get_has_turbo()
-        self.current_graph.graph['isPluging'] = GraphParameters.get_is_plugin()
+        self.current_graph.graph['isPlugin'] = GraphParameters.get_is_plugin()
 
     def add_random_edge(self, probability_of_new_connection = 0.1):
         """
@@ -136,6 +136,15 @@ class GraphGenerator:
     def list_nodes(self):
         for node in self.current_graph.nodes():
             print "node %d - type = %s" % (node, self.current_graph.node[node]["type"])
+
+    def save_graph(self, file_name):
+        if self.current_graph:
+            try:
+                nx.write_graphml(self.current_graph,file_name, prettyprint = True)
+            except IOError:
+                print 'Unable to save the file.'
+        else:
+            raise Exception("No graph to save.")
 
     def show(self, labels = True):
         """
