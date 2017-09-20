@@ -1,7 +1,9 @@
 from random import randint, choice, uniform, getrandbits, random
 
+
 class GraphParameters:
     """
+    Generate Graph specific parameters such as random attributes.
     ##designName: string, no constraints
     ##serie: string enumeration, no constraints on the value, but there should be more than one architecture with the same value
     ##targetMarket { Europe | Asia | South America }
@@ -18,13 +20,11 @@ class GraphParameters:
     """
 
     NODE_TYPES = ["nodetypeA", "nodetypeB"]
-    TARGET_MARKETS = ["Europe" , "Asia" , "South America"]
-    BATTERY_TYPE = ["Li-ion polymer" , "Lithium-Ion", "VRLA, NiCd" ]
-    DRIVE_WHEELS = ["fwd" , "4wd", "rwd" ]
+    TARGET_MARKETS = ["Europe", "Asia", "South America"]
+    BATTERY_TYPE = ["Li-ion polymer", "Lithium-Ion", "VRLA, NiCd"]
+    DRIVE_WHEELS = ["fwd", "4wd", "rwd"]
     SERIE = set()
     design_counter = 0
-
-
 
     @staticmethod
     def get_node_type():
@@ -37,18 +37,20 @@ class GraphParameters:
         :return: string
         """
         GraphParameters.design_counter += 1
-        suffix = 'th' if 11 <= GraphParameters.design_counter <=13 else {1:'st',2:'nd',3:'rd'}.get(GraphParameters.design_counter % 10, 'th')
-        return "%s%s Example" % (GraphParameters.design_counter, suffix)  #"design-" + ''.join(choice('0123456789ABCDEF') for i in range(4))
+        suffix = 'th' if 11 <= GraphParameters.design_counter <= 13 else {1: 'st', 2: 'nd', 3: 'rd'}.get(
+                GraphParameters.design_counter % 10, 'th')
+        return "%s%s Example" % (
+            GraphParameters.design_counter, suffix)  # "design-" + ''.join(choice('0123456789ABCDEF') for i in range(4))
 
     @staticmethod
-    def get_serie(probability_of_using_same_serie = 0.1):
+    def get_serie(probability_of_using_same_serie=0.1):
         """
         string enumeration, no constraints on the value, but can be a more than one architecture with the same value
         :return: string
         """
         if random() < probability_of_using_same_serie and GraphParameters.SERIE:
             return choice(list(GraphParameters.SERIE))
-        serie = "Alpha-"+ ''.join(choice('0123456789ABCDEF-') for i in range(8)).strip("-")
+        serie = "Alpha-" + ''.join(choice('0123456789ABCDEF-') for i in range(8)).strip("-")
         GraphParameters.SERIE.add(serie)
         return serie
 
@@ -89,7 +91,7 @@ class GraphParameters:
         horsepower: integer in the range of 60 to 350
         :return: integer
         """
-        return float(randint(60, 350)) #added float as the sample files requires field to be a double
+        return float(randint(60, 350))  # added float as the sample files requires field to be a double
 
     @staticmethod
     def get_mpg():
@@ -161,5 +163,3 @@ class GraphParameters:
         :return: boolean
         """
         return bool(getrandbits(1))
-
-
