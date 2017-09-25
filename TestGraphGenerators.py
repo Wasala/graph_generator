@@ -26,8 +26,16 @@ from GraphUtils import GraphUtils
 
 
 common_graph_generator = CommonGraphGenerator(min_no_of_nodes = 25,
-                                              max_no_of_nodes = 40)
+                                              max_no_of_nodes = 40, max_no_of_edges=40)
 generated_common_graph = common_graph_generator.generate_graph()
+print "Common graph generated: N %d, E: %d" % (generated_common_graph.number_of_nodes(), generated_common_graph.number_of_edges())
+#common_graph_generator.save_nodes_and_edges("./stats.txt")
+#common_graph_generator.show()
+sub_graph_generator = GraphGenerator(generated_common_graph,
+                                     max_no_of_total_nodes=40, max_no_of_total_edges = 60)
+sub_graph = sub_graph_generator.generate_graph()
+print "Sub graph generated: N %d, E: %d" % (sub_graph .number_of_nodes(), sub_graph.number_of_edges())
 
-common_graph_generator.save_nodes_and_edges("./stats.txt")
-common_graph_generator.show()
+sub_graph = sub_graph_generator.generate_graph()
+print "Sub graph generated: N %d, E: %d" % (sub_graph .number_of_nodes(), sub_graph.number_of_edges())
+sub_graph_generator.show()

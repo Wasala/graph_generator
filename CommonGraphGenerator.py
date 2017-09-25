@@ -7,7 +7,7 @@ from GraphParameters import GraphParameters
 
 
 class CommonGraphGenerator:
-    def __init__(self, min_no_of_nodes=1, max_no_of_nodes=10, probability_for_edge_creation=0):
+    def __init__(self, min_no_of_nodes=1, max_no_of_nodes=10, probability_for_edge_creation=0, max_no_of_edges=10):
         """ Initialize parameters for generating a connected graph G using networkx library.
         Paramters
         ---------
@@ -28,6 +28,7 @@ class CommonGraphGenerator:
         self.min_of_nodes = min_no_of_nodes
         self.max_of_nodes = max_no_of_nodes
         self.probability_for_edge_creation = probability_for_edge_creation
+        self.max_no_of_edges =  max_no_of_edges
         self.current_graph = None
 
     def generate_graph(self):
@@ -55,15 +56,48 @@ class CommonGraphGenerator:
         """
         generated_graph = None
         iteration = 0
+        max_probability_for_edge_creation = 100
+        min_probability_for_edge_creation = 100
 
-        no_of_nodes = randint(self.min_of_nodes, self.max_of_nodes)
-        while generated_graph is None or not nx.is_connected(
-                generated_graph):  # make sure the generated graph is connected
-            generated_graph = nx.erdos_renyi_graph(no_of_nodes, self.probability_for_edge_creation, directed=False)
-            iteration += 1
-            if iteration > 5:
-                self.probability_for_edge_creation += 0.05
-                iteration = 0
+        probability_switch = True
+
+        attempt = 0
+        while generated_graph is None:
+            no_of_nodes = randint(self.min_of_nodes, self.max_of_nodes)
+            no_of_edges = randint(no_of_nodes - 1, self.max_of_nodes)
+            #print "#####", no_of_nodes, no_of_edges
+
+            if no_of_edges == no_of_nodes or no_of_edges == no_of_nodes - 1:
+                generated_graph = nx.path_graph(no_of_nodes)
+                break
+
+            while generated_graph is None or (not nx.is_connected(
+                    generated_graph) or generated_graph.number_of_edges() > no_of_edges):  # make sure the generated graph is connected
+                generated_graph = nx.erdos_renyi_graph(no_of_nodes, self.probability_for_edge_creation, directed=False)
+                iteration += 1
+                attempt += 1
+                #print "NODES: %d, EDGES: %d [Iteration: %d Attempt: %d \t Edges:%d \t %s \t max: %f min: %f]" % (no_of_nodes, no_of_edges, iteration, attempt, generated_graph.number_of_edges(), str(nx.is_connected(generated_graph)), max_probability_for_edge_creation, min_probability_for_edge_creation)
+                if generated_graph.number_of_edges() > 0:
+                    min_probability_for_edge_creation = min(self.probability_for_edge_creation,min_probability_for_edge_creation)
+
+                if generated_graph.number_of_edges() >= no_of_edges:
+                    max_probability_for_edge_creation = min(self.probability_for_edge_creation,max_probability_for_edge_creation)
+
+                if probability_switch:
+                    self.probability_for_edge_creation += 0.01
+                else:
+                    self.probability_for_edge_creation -= 0.01
+
+                if max_probability_for_edge_creation > 0 and self.probability_for_edge_creation > max_probability_for_edge_creation:
+                    probability_switch = False
+
+                if min_probability_for_edge_creation > 0 and self.probability_for_edge_creation < min_probability_for_edge_creation:
+                    probability_switch = True
+                if iteration > 2000:
+                    iteration = 0
+                    generated_graph = None
+                    break
+
 
         self.current_graph = generated_graph
         self.add_attributes_to_nodes()
@@ -102,6 +136,15 @@ class CommonGraphGenerator:
                 stat_file.write("---end-of-common-graph---\n")
         except IOError:
             raise ("Unable to write to the specified file.")
+
+    def get_number_of_edges(self):
+        """
+        Return number of edges of the current common graph
+        :return: int
+        """
+        if self.current_graph:
+            return self.current_graph.number_of_edges()
+        return 0
 
     def show(self):
         """

@@ -1,0 +1,2179 @@
+number of nodes:35 	 number of edges:0
+node 0 - type = nodetypeA
+node 1 - type = nodetypeB
+node 2 - type = nodetypeA
+node 3 - type = nodetypeA
+node 4 - type = nodetypeB
+node 5 - type = nodetypeB
+node 6 - type = nodetypeA
+node 7 - type = nodetypeA
+node 8 - type = nodetypeB
+node 9 - type = nodetypeA
+node 10 - type = nodetypeA
+node 11 - type = nodetypeB
+node 12 - type = nodetypeB
+node 13 - type = nodetypeA
+node 14 - type = nodetypeB
+node 15 - type = nodetypeB
+node 16 - type = nodetypeA
+node 17 - type = nodetypeA
+node 18 - type = nodetypeA
+node 19 - type = nodetypeB
+node 20 - type = nodetypeA
+node 21 - type = nodetypeB
+node 22 - type = nodetypeA
+node 23 - type = nodetypeB
+node 24 - type = nodetypeB
+node 25 - type = nodetypeB
+node 26 - type = nodetypeA
+node 27 - type = nodetypeB
+node 28 - type = nodetypeA
+node 29 - type = nodetypeA
+node 30 - type = nodetypeA
+node 31 - type = nodetypeA
+node 32 - type = nodetypeB
+node 33 - type = nodetypeB
+node 34 - type = nodetypeB
+---end-of-common-graph---
+number of nodes:29 	 number of edges:0
+node 0 - type = nodetypeA
+node 1 - type = nodetypeA
+node 2 - type = nodetypeA
+node 3 - type = nodetypeB
+node 4 - type = nodetypeA
+node 5 - type = nodetypeA
+node 6 - type = nodetypeB
+node 7 - type = nodetypeB
+node 8 - type = nodetypeB
+node 9 - type = nodetypeB
+node 10 - type = nodetypeA
+node 11 - type = nodetypeA
+node 12 - type = nodetypeB
+node 13 - type = nodetypeB
+node 14 - type = nodetypeB
+node 15 - type = nodetypeA
+node 16 - type = nodetypeB
+node 17 - type = nodetypeA
+node 18 - type = nodetypeB
+node 19 - type = nodetypeA
+node 20 - type = nodetypeB
+node 21 - type = nodetypeA
+node 22 - type = nodetypeA
+node 23 - type = nodetypeA
+node 24 - type = nodetypeA
+node 25 - type = nodetypeA
+node 26 - type = nodetypeB
+node 27 - type = nodetypeA
+node 28 - type = nodetypeB
+---end-of-common-graph---
+number of nodes:32 	 number of edges:0
+node 0 - type = nodetypeA
+node 1 - type = nodetypeA
+node 2 - type = nodetypeA
+node 3 - type = nodetypeA
+node 4 - type = nodetypeA
+node 5 - type = nodetypeA
+node 6 - type = nodetypeA
+node 7 - type = nodetypeB
+node 8 - type = nodetypeA
+node 9 - type = nodetypeB
+node 10 - type = nodetypeA
+node 11 - type = nodetypeA
+node 12 - type = nodetypeB
+node 13 - type = nodetypeA
+node 14 - type = nodetypeB
+node 15 - type = nodetypeA
+node 16 - type = nodetypeA
+node 17 - type = nodetypeB
+node 18 - type = nodetypeB
+node 19 - type = nodetypeB
+node 20 - type = nodetypeA
+node 21 - type = nodetypeB
+node 22 - type = nodetypeB
+node 23 - type = nodetypeB
+node 24 - type = nodetypeA
+node 25 - type = nodetypeA
+node 26 - type = nodetypeB
+node 27 - type = nodetypeB
+node 28 - type = nodetypeB
+node 29 - type = nodetypeB
+node 30 - type = nodetypeB
+node 31 - type = nodetypeB
+---end-of-common-graph---
+number of nodes:32 	 number of edges:0
+node 0 - type = nodetypeA
+node 1 - type = nodetypeB
+node 2 - type = nodetypeA
+node 3 - type = nodetypeA
+node 4 - type = nodetypeB
+node 5 - type = nodetypeB
+node 6 - type = nodetypeB
+node 7 - type = nodetypeA
+node 8 - type = nodetypeA
+node 9 - type = nodetypeA
+node 10 - type = nodetypeB
+node 11 - type = nodetypeA
+node 12 - type = nodetypeB
+node 13 - type = nodetypeB
+node 14 - type = nodetypeA
+node 15 - type = nodetypeA
+node 16 - type = nodetypeB
+node 17 - type = nodetypeB
+node 18 - type = nodetypeA
+node 19 - type = nodetypeA
+node 20 - type = nodetypeB
+node 21 - type = nodetypeA
+node 22 - type = nodetypeA
+node 23 - type = nodetypeA
+node 24 - type = nodetypeB
+node 25 - type = nodetypeA
+node 26 - type = nodetypeA
+node 27 - type = nodetypeB
+node 28 - type = nodetypeB
+node 29 - type = nodetypeA
+node 30 - type = nodetypeA
+node 31 - type = nodetypeA
+---end-of-common-graph---
+number of nodes:36 	 number of edges:0
+node 0 - type = nodetypeB
+node 1 - type = nodetypeA
+node 2 - type = nodetypeB
+node 3 - type = nodetypeB
+node 4 - type = nodetypeB
+node 5 - type = nodetypeB
+node 6 - type = nodetypeA
+node 7 - type = nodetypeA
+node 8 - type = nodetypeA
+node 9 - type = nodetypeB
+node 10 - type = nodetypeA
+node 11 - type = nodetypeB
+node 12 - type = nodetypeB
+node 13 - type = nodetypeB
+node 14 - type = nodetypeA
+node 15 - type = nodetypeA
+node 16 - type = nodetypeA
+node 17 - type = nodetypeB
+node 18 - type = nodetypeA
+node 19 - type = nodetypeB
+node 20 - type = nodetypeB
+node 21 - type = nodetypeB
+node 22 - type = nodetypeA
+node 23 - type = nodetypeB
+node 24 - type = nodetypeB
+node 25 - type = nodetypeA
+node 26 - type = nodetypeA
+node 27 - type = nodetypeB
+node 28 - type = nodetypeA
+node 29 - type = nodetypeA
+node 30 - type = nodetypeA
+node 31 - type = nodetypeA
+node 32 - type = nodetypeB
+node 33 - type = nodetypeB
+node 34 - type = nodetypeB
+node 35 - type = nodetypeA
+---end-of-common-graph---
+number of nodes:30 	 number of edges:57
+node 0 - type = nodetypeA
+node 1 - type = nodetypeB
+node 2 - type = nodetypeA
+node 3 - type = nodetypeA
+node 4 - type = nodetypeB
+node 5 - type = nodetypeA
+node 6 - type = nodetypeA
+node 7 - type = nodetypeB
+node 8 - type = nodetypeB
+node 9 - type = nodetypeA
+node 10 - type = nodetypeA
+node 11 - type = nodetypeA
+node 12 - type = nodetypeA
+node 13 - type = nodetypeB
+node 14 - type = nodetypeB
+node 15 - type = nodetypeA
+node 16 - type = nodetypeA
+node 17 - type = nodetypeB
+node 18 - type = nodetypeA
+node 19 - type = nodetypeA
+node 20 - type = nodetypeB
+node 21 - type = nodetypeB
+node 22 - type = nodetypeB
+node 23 - type = nodetypeA
+node 24 - type = nodetypeA
+node 25 - type = nodetypeB
+node 26 - type = nodetypeA
+node 27 - type = nodetypeA
+node 28 - type = nodetypeA
+node 29 - type = nodetypeA
+edge (from, to): (0, 9)
+edge (from, to): (0, 26)
+edge (from, to): (0, 13)
+edge (from, to): (0, 15)
+edge (from, to): (1, 5)
+edge (from, to): (1, 10)
+edge (from, to): (1, 13)
+edge (from, to): (1, 18)
+edge (from, to): (1, 22)
+edge (from, to): (1, 28)
+edge (from, to): (2, 9)
+edge (from, to): (2, 21)
+edge (from, to): (3, 8)
+edge (from, to): (3, 13)
+edge (from, to): (3, 21)
+edge (from, to): (4, 6)
+edge (from, to): (4, 10)
+edge (from, to): (4, 15)
+edge (from, to): (4, 16)
+edge (from, to): (4, 18)
+edge (from, to): (4, 21)
+edge (from, to): (4, 22)
+edge (from, to): (4, 25)
+edge (from, to): (5, 16)
+edge (from, to): (5, 20)
+edge (from, to): (6, 8)
+edge (from, to): (7, 17)
+edge (from, to): (8, 16)
+edge (from, to): (9, 16)
+edge (from, to): (9, 17)
+edge (from, to): (9, 27)
+edge (from, to): (9, 29)
+edge (from, to): (10, 12)
+edge (from, to): (10, 13)
+edge (from, to): (10, 20)
+edge (from, to): (10, 25)
+edge (from, to): (11, 28)
+edge (from, to): (11, 14)
+edge (from, to): (12, 27)
+edge (from, to): (13, 21)
+edge (from, to): (14, 25)
+edge (from, to): (14, 22)
+edge (from, to): (15, 18)
+edge (from, to): (15, 22)
+edge (from, to): (17, 23)
+edge (from, to): (17, 28)
+edge (from, to): (17, 21)
+edge (from, to): (18, 19)
+edge (from, to): (18, 20)
+edge (from, to): (18, 22)
+edge (from, to): (20, 23)
+edge (from, to): (20, 21)
+edge (from, to): (21, 28)
+edge (from, to): (24, 29)
+edge (from, to): (25, 28)
+edge (from, to): (25, 27)
+edge (from, to): (28, 29)
+---end-of-common-graph---
+number of nodes:28 	 number of edges:40
+node 0 - type = nodetypeB
+node 1 - type = nodetypeB
+node 2 - type = nodetypeA
+node 3 - type = nodetypeA
+node 4 - type = nodetypeA
+node 5 - type = nodetypeB
+node 6 - type = nodetypeA
+node 7 - type = nodetypeA
+node 8 - type = nodetypeA
+node 9 - type = nodetypeB
+node 10 - type = nodetypeA
+node 11 - type = nodetypeB
+node 12 - type = nodetypeB
+node 13 - type = nodetypeA
+node 14 - type = nodetypeB
+node 15 - type = nodetypeB
+node 16 - type = nodetypeA
+node 17 - type = nodetypeB
+node 18 - type = nodetypeB
+node 19 - type = nodetypeB
+node 20 - type = nodetypeA
+node 21 - type = nodetypeA
+node 22 - type = nodetypeB
+node 23 - type = nodetypeB
+node 24 - type = nodetypeA
+node 25 - type = nodetypeA
+node 26 - type = nodetypeA
+node 27 - type = nodetypeB
+edge (from, to): (0, 17)
+edge (from, to): (0, 11)
+edge (from, to): (0, 25)
+edge (from, to): (1, 16)
+edge (from, to): (1, 2)
+edge (from, to): (1, 27)
+edge (from, to): (1, 15)
+edge (from, to): (2, 24)
+edge (from, to): (2, 18)
+edge (from, to): (2, 7)
+edge (from, to): (3, 20)
+edge (from, to): (4, 9)
+edge (from, to): (4, 12)
+edge (from, to): (4, 21)
+edge (from, to): (4, 6)
+edge (from, to): (4, 20)
+edge (from, to): (5, 25)
+edge (from, to): (5, 19)
+edge (from, to): (7, 22)
+edge (from, to): (8, 24)
+edge (from, to): (8, 20)
+edge (from, to): (9, 24)
+edge (from, to): (10, 20)
+edge (from, to): (11, 17)
+edge (from, to): (11, 13)
+edge (from, to): (11, 24)
+edge (from, to): (12, 16)
+edge (from, to): (12, 27)
+edge (from, to): (12, 14)
+edge (from, to): (13, 26)
+edge (from, to): (14, 23)
+edge (from, to): (15, 26)
+edge (from, to): (15, 25)
+edge (from, to): (16, 20)
+edge (from, to): (16, 17)
+edge (from, to): (17, 21)
+edge (from, to): (19, 21)
+edge (from, to): (21, 23)
+edge (from, to): (22, 25)
+edge (from, to): (23, 27)
+---end-of-common-graph---
+number of nodes:26 	 number of edges:29
+node 0 - type = nodetypeA
+node 1 - type = nodetypeA
+node 2 - type = nodetypeA
+node 3 - type = nodetypeB
+node 4 - type = nodetypeB
+node 5 - type = nodetypeB
+node 6 - type = nodetypeA
+node 7 - type = nodetypeA
+node 8 - type = nodetypeA
+node 9 - type = nodetypeB
+node 10 - type = nodetypeB
+node 11 - type = nodetypeB
+node 12 - type = nodetypeA
+node 13 - type = nodetypeA
+node 14 - type = nodetypeB
+node 15 - type = nodetypeB
+node 16 - type = nodetypeA
+node 17 - type = nodetypeB
+node 18 - type = nodetypeA
+node 19 - type = nodetypeB
+node 20 - type = nodetypeB
+node 21 - type = nodetypeA
+node 22 - type = nodetypeA
+node 23 - type = nodetypeB
+node 24 - type = nodetypeA
+node 25 - type = nodetypeA
+edge (from, to): (0, 24)
+edge (from, to): (0, 2)
+edge (from, to): (0, 14)
+edge (from, to): (1, 25)
+edge (from, to): (1, 11)
+edge (from, to): (1, 22)
+edge (from, to): (2, 17)
+edge (from, to): (2, 10)
+edge (from, to): (2, 20)
+edge (from, to): (2, 7)
+edge (from, to): (3, 20)
+edge (from, to): (4, 17)
+edge (from, to): (4, 22)
+edge (from, to): (5, 18)
+edge (from, to): (5, 21)
+edge (from, to): (6, 12)
+edge (from, to): (7, 8)
+edge (from, to): (7, 20)
+edge (from, to): (8, 12)
+edge (from, to): (9, 23)
+edge (from, to): (9, 15)
+edge (from, to): (10, 12)
+edge (from, to): (10, 23)
+edge (from, to): (11, 19)
+edge (from, to): (11, 23)
+edge (from, to): (13, 14)
+edge (from, to): (14, 16)
+edge (from, to): (14, 21)
+edge (from, to): (17, 24)
+---end-of-common-graph---
+number of nodes:31 	 number of edges:34
+node 0 - type = nodetypeA
+node 1 - type = nodetypeB
+node 2 - type = nodetypeA
+node 3 - type = nodetypeA
+node 4 - type = nodetypeB
+node 5 - type = nodetypeA
+node 6 - type = nodetypeA
+node 7 - type = nodetypeA
+node 8 - type = nodetypeA
+node 9 - type = nodetypeB
+node 10 - type = nodetypeB
+node 11 - type = nodetypeA
+node 12 - type = nodetypeB
+node 13 - type = nodetypeB
+node 14 - type = nodetypeB
+node 15 - type = nodetypeA
+node 16 - type = nodetypeB
+node 17 - type = nodetypeA
+node 18 - type = nodetypeB
+node 19 - type = nodetypeA
+node 20 - type = nodetypeA
+node 21 - type = nodetypeA
+node 22 - type = nodetypeA
+node 23 - type = nodetypeB
+node 24 - type = nodetypeA
+node 25 - type = nodetypeB
+node 26 - type = nodetypeB
+node 27 - type = nodetypeA
+node 28 - type = nodetypeB
+node 29 - type = nodetypeB
+node 30 - type = nodetypeA
+edge (from, to): (0, 29)
+edge (from, to): (0, 5)
+edge (from, to): (0, 23)
+edge (from, to): (1, 16)
+edge (from, to): (1, 12)
+edge (from, to): (2, 19)
+edge (from, to): (2, 22)
+edge (from, to): (3, 21)
+edge (from, to): (4, 9)
+edge (from, to): (4, 15)
+edge (from, to): (5, 16)
+edge (from, to): (5, 11)
+edge (from, to): (6, 22)
+edge (from, to): (6, 7)
+edge (from, to): (7, 18)
+edge (from, to): (8, 16)
+edge (from, to): (9, 13)
+edge (from, to): (10, 29)
+edge (from, to): (11, 25)
+edge (from, to): (11, 23)
+edge (from, to): (11, 14)
+edge (from, to): (11, 15)
+edge (from, to): (14, 17)
+edge (from, to): (15, 21)
+edge (from, to): (16, 28)
+edge (from, to): (17, 28)
+edge (from, to): (17, 21)
+edge (from, to): (18, 24)
+edge (from, to): (19, 30)
+edge (from, to): (19, 23)
+edge (from, to): (20, 26)
+edge (from, to): (20, 23)
+edge (from, to): (23, 27)
+edge (from, to): (23, 28)
+---end-of-common-graph---
+number of nodes:32 	 number of edges:38
+node 0 - type = nodetypeA
+node 1 - type = nodetypeA
+node 2 - type = nodetypeB
+node 3 - type = nodetypeB
+node 4 - type = nodetypeB
+node 5 - type = nodetypeB
+node 6 - type = nodetypeB
+node 7 - type = nodetypeA
+node 8 - type = nodetypeA
+node 9 - type = nodetypeA
+node 10 - type = nodetypeA
+node 11 - type = nodetypeB
+node 12 - type = nodetypeB
+node 13 - type = nodetypeA
+node 14 - type = nodetypeB
+node 15 - type = nodetypeB
+node 16 - type = nodetypeA
+node 17 - type = nodetypeB
+node 18 - type = nodetypeA
+node 19 - type = nodetypeB
+node 20 - type = nodetypeB
+node 21 - type = nodetypeB
+node 22 - type = nodetypeA
+node 23 - type = nodetypeB
+node 24 - type = nodetypeA
+node 25 - type = nodetypeA
+node 26 - type = nodetypeB
+node 27 - type = nodetypeA
+node 28 - type = nodetypeA
+node 29 - type = nodetypeA
+node 30 - type = nodetypeA
+node 31 - type = nodetypeB
+edge (from, to): (0, 9)
+edge (from, to): (1, 31)
+edge (from, to): (1, 9)
+edge (from, to): (1, 3)
+edge (from, to): (1, 12)
+edge (from, to): (1, 25)
+edge (from, to): (2, 10)
+edge (from, to): (2, 5)
+edge (from, to): (2, 14)
+edge (from, to): (3, 7)
+edge (from, to): (4, 16)
+edge (from, to): (4, 18)
+edge (from, to): (5, 8)
+edge (from, to): (5, 21)
+edge (from, to): (5, 30)
+edge (from, to): (5, 15)
+edge (from, to): (6, 28)
+edge (from, to): (6, 13)
+edge (from, to): (7, 11)
+edge (from, to): (7, 19)
+edge (from, to): (7, 27)
+edge (from, to): (9, 18)
+edge (from, to): (10, 13)
+edge (from, to): (10, 22)
+edge (from, to): (11, 16)
+edge (from, to): (11, 21)
+edge (from, to): (12, 31)
+edge (from, to): (12, 17)
+edge (from, to): (14, 24)
+edge (from, to): (15, 20)
+edge (from, to): (15, 31)
+edge (from, to): (17, 20)
+edge (from, to): (17, 29)
+edge (from, to): (19, 26)
+edge (from, to): (21, 25)
+edge (from, to): (22, 25)
+edge (from, to): (23, 29)
+edge (from, to): (29, 31)
+---end-of-common-graph---
+number of nodes:32 	 number of edges:38
+node 0 - type = nodetypeA
+node 1 - type = nodetypeA
+node 2 - type = nodetypeA
+node 3 - type = nodetypeA
+node 4 - type = nodetypeB
+node 5 - type = nodetypeB
+node 6 - type = nodetypeB
+node 7 - type = nodetypeA
+node 8 - type = nodetypeA
+node 9 - type = nodetypeA
+node 10 - type = nodetypeB
+node 11 - type = nodetypeB
+node 12 - type = nodetypeB
+node 13 - type = nodetypeB
+node 14 - type = nodetypeB
+node 15 - type = nodetypeB
+node 16 - type = nodetypeA
+node 17 - type = nodetypeB
+node 18 - type = nodetypeA
+node 19 - type = nodetypeB
+node 20 - type = nodetypeA
+node 21 - type = nodetypeA
+node 22 - type = nodetypeA
+node 23 - type = nodetypeA
+node 24 - type = nodetypeA
+node 25 - type = nodetypeB
+node 26 - type = nodetypeA
+node 27 - type = nodetypeA
+node 28 - type = nodetypeA
+node 29 - type = nodetypeB
+node 30 - type = nodetypeA
+node 31 - type = nodetypeB
+edge (from, to): (0, 29)
+edge (from, to): (1, 25)
+edge (from, to): (1, 30)
+edge (from, to): (2, 8)
+edge (from, to): (2, 27)
+edge (from, to): (3, 14)
+edge (from, to): (4, 11)
+edge (from, to): (4, 12)
+edge (from, to): (4, 17)
+edge (from, to): (4, 18)
+edge (from, to): (4, 21)
+edge (from, to): (4, 24)
+edge (from, to): (4, 28)
+edge (from, to): (5, 18)
+edge (from, to): (6, 22)
+edge (from, to): (7, 17)
+edge (from, to): (7, 26)
+edge (from, to): (7, 25)
+edge (from, to): (8, 10)
+edge (from, to): (8, 29)
+edge (from, to): (9, 17)
+edge (from, to): (9, 13)
+edge (from, to): (10, 16)
+edge (from, to): (10, 27)
+edge (from, to): (11, 16)
+edge (from, to): (11, 29)
+edge (from, to): (11, 14)
+edge (from, to): (12, 23)
+edge (from, to): (13, 15)
+edge (from, to): (14, 26)
+edge (from, to): (15, 20)
+edge (from, to): (15, 22)
+edge (from, to): (17, 23)
+edge (from, to): (18, 31)
+edge (from, to): (19, 22)
+edge (from, to): (21, 28)
+edge (from, to): (22, 31)
+edge (from, to): (27, 28)
+---end-of-common-graph---
+number of nodes:25 	 number of edges:32
+node 0 - type = nodetypeA
+node 1 - type = nodetypeA
+node 2 - type = nodetypeB
+node 3 - type = nodetypeB
+node 4 - type = nodetypeB
+node 5 - type = nodetypeB
+node 6 - type = nodetypeB
+node 7 - type = nodetypeA
+node 8 - type = nodetypeA
+node 9 - type = nodetypeA
+node 10 - type = nodetypeB
+node 11 - type = nodetypeA
+node 12 - type = nodetypeB
+node 13 - type = nodetypeB
+node 14 - type = nodetypeA
+node 15 - type = nodetypeB
+node 16 - type = nodetypeB
+node 17 - type = nodetypeA
+node 18 - type = nodetypeA
+node 19 - type = nodetypeA
+node 20 - type = nodetypeB
+node 21 - type = nodetypeA
+node 22 - type = nodetypeB
+node 23 - type = nodetypeA
+node 24 - type = nodetypeA
+edge (from, to): (0, 10)
+edge (from, to): (0, 14)
+edge (from, to): (1, 24)
+edge (from, to): (1, 9)
+edge (from, to): (1, 4)
+edge (from, to): (1, 15)
+edge (from, to): (2, 8)
+edge (from, to): (2, 13)
+edge (from, to): (2, 21)
+edge (from, to): (3, 5)
+edge (from, to): (4, 12)
+edge (from, to): (5, 14)
+edge (from, to): (5, 6)
+edge (from, to): (7, 8)
+edge (from, to): (7, 9)
+edge (from, to): (7, 11)
+edge (from, to): (8, 16)
+edge (from, to): (8, 20)
+edge (from, to): (9, 20)
+edge (from, to): (10, 18)
+edge (from, to): (10, 22)
+edge (from, to): (10, 14)
+edge (from, to): (11, 13)
+edge (from, to): (11, 14)
+edge (from, to): (12, 16)
+edge (from, to): (12, 22)
+edge (from, to): (13, 19)
+edge (from, to): (14, 22)
+edge (from, to): (15, 17)
+edge (from, to): (20, 21)
+edge (from, to): (20, 23)
+edge (from, to): (22, 24)
+---end-of-common-graph---
+number of nodes:28 	 number of edges:30
+node 0 - type = nodetypeA
+node 1 - type = nodetypeB
+node 2 - type = nodetypeB
+node 3 - type = nodetypeA
+node 4 - type = nodetypeB
+node 5 - type = nodetypeA
+node 6 - type = nodetypeA
+node 7 - type = nodetypeA
+node 8 - type = nodetypeB
+node 9 - type = nodetypeB
+node 10 - type = nodetypeA
+node 11 - type = nodetypeA
+node 12 - type = nodetypeA
+node 13 - type = nodetypeB
+node 14 - type = nodetypeA
+node 15 - type = nodetypeB
+node 16 - type = nodetypeB
+node 17 - type = nodetypeB
+node 18 - type = nodetypeA
+node 19 - type = nodetypeB
+node 20 - type = nodetypeB
+node 21 - type = nodetypeA
+node 22 - type = nodetypeA
+node 23 - type = nodetypeA
+node 24 - type = nodetypeB
+node 25 - type = nodetypeB
+node 26 - type = nodetypeB
+node 27 - type = nodetypeB
+edge (from, to): (0, 13)
+edge (from, to): (1, 3)
+edge (from, to): (1, 22)
+edge (from, to): (2, 7)
+edge (from, to): (3, 16)
+edge (from, to): (4, 16)
+edge (from, to): (4, 17)
+edge (from, to): (4, 10)
+edge (from, to): (4, 22)
+edge (from, to): (5, 24)
+edge (from, to): (5, 11)
+edge (from, to): (5, 7)
+edge (from, to): (6, 10)
+edge (from, to): (6, 18)
+edge (from, to): (6, 13)
+edge (from, to): (7, 18)
+edge (from, to): (7, 20)
+edge (from, to): (7, 15)
+edge (from, to): (8, 26)
+edge (from, to): (8, 11)
+edge (from, to): (8, 21)
+edge (from, to): (9, 27)
+edge (from, to): (12, 20)
+edge (from, to): (13, 21)
+edge (from, to): (14, 21)
+edge (from, to): (17, 27)
+edge (from, to): (18, 19)
+edge (from, to): (19, 21)
+edge (from, to): (21, 23)
+edge (from, to): (22, 25)
+---end-of-common-graph---
+number of nodes:27 	 number of edges:37
+node 0 - type = nodetypeB
+node 1 - type = nodetypeA
+node 2 - type = nodetypeB
+node 3 - type = nodetypeB
+node 4 - type = nodetypeB
+node 5 - type = nodetypeA
+node 6 - type = nodetypeA
+node 7 - type = nodetypeA
+node 8 - type = nodetypeA
+node 9 - type = nodetypeA
+node 10 - type = nodetypeA
+node 11 - type = nodetypeB
+node 12 - type = nodetypeB
+node 13 - type = nodetypeA
+node 14 - type = nodetypeA
+node 15 - type = nodetypeB
+node 16 - type = nodetypeA
+node 17 - type = nodetypeA
+node 18 - type = nodetypeB
+node 19 - type = nodetypeA
+node 20 - type = nodetypeA
+node 21 - type = nodetypeA
+node 22 - type = nodetypeB
+node 23 - type = nodetypeA
+node 24 - type = nodetypeA
+node 25 - type = nodetypeB
+node 26 - type = nodetypeB
+edge (from, to): (0, 23)
+edge (from, to): (0, 14)
+edge (from, to): (0, 7)
+edge (from, to): (1, 2)
+edge (from, to): (2, 18)
+edge (from, to): (3, 4)
+edge (from, to): (4, 18)
+edge (from, to): (5, 18)
+edge (from, to): (5, 22)
+edge (from, to): (6, 25)
+edge (from, to): (6, 23)
+edge (from, to): (7, 18)
+edge (from, to): (7, 26)
+edge (from, to): (7, 22)
+edge (from, to): (7, 23)
+edge (from, to): (8, 10)
+edge (from, to): (8, 12)
+edge (from, to): (8, 26)
+edge (from, to): (9, 18)
+edge (from, to): (10, 18)
+edge (from, to): (10, 11)
+edge (from, to): (10, 20)
+edge (from, to): (10, 13)
+edge (from, to): (11, 21)
+edge (from, to): (13, 15)
+edge (from, to): (15, 24)
+edge (from, to): (16, 18)
+edge (from, to): (16, 19)
+edge (from, to): (16, 21)
+edge (from, to): (17, 22)
+edge (from, to): (18, 20)
+edge (from, to): (18, 21)
+edge (from, to): (19, 23)
+edge (from, to): (20, 26)
+edge (from, to): (20, 21)
+edge (from, to): (23, 25)
+edge (from, to): (24, 26)
+---end-of-common-graph---
+number of nodes:40 	 number of edges:40
+node 0 - type = nodetypeB
+node 1 - type = nodetypeB
+node 2 - type = nodetypeB
+node 3 - type = nodetypeB
+node 4 - type = nodetypeA
+node 5 - type = nodetypeB
+node 6 - type = nodetypeA
+node 7 - type = nodetypeB
+node 8 - type = nodetypeB
+node 9 - type = nodetypeB
+node 10 - type = nodetypeA
+node 11 - type = nodetypeA
+node 12 - type = nodetypeA
+node 13 - type = nodetypeA
+node 14 - type = nodetypeA
+node 15 - type = nodetypeB
+node 16 - type = nodetypeB
+node 17 - type = nodetypeA
+node 18 - type = nodetypeA
+node 19 - type = nodetypeA
+node 20 - type = nodetypeB
+node 21 - type = nodetypeA
+node 22 - type = nodetypeA
+node 23 - type = nodetypeB
+node 24 - type = nodetypeA
+node 25 - type = nodetypeB
+node 26 - type = nodetypeB
+node 27 - type = nodetypeB
+node 28 - type = nodetypeB
+node 29 - type = nodetypeB
+node 30 - type = nodetypeA
+node 31 - type = nodetypeA
+node 32 - type = nodetypeB
+node 33 - type = nodetypeA
+node 34 - type = nodetypeA
+node 35 - type = nodetypeB
+node 36 - type = nodetypeB
+node 37 - type = nodetypeA
+node 38 - type = nodetypeB
+node 39 - type = nodetypeA
+edge (from, to): (0, 17)
+edge (from, to): (0, 4)
+edge (from, to): (1, 37)
+edge (from, to): (1, 14)
+edge (from, to): (2, 25)
+edge (from, to): (3, 29)
+edge (from, to): (4, 29)
+edge (from, to): (5, 30)
+edge (from, to): (6, 26)
+edge (from, to): (6, 19)
+edge (from, to): (6, 36)
+edge (from, to): (6, 7)
+edge (from, to): (8, 12)
+edge (from, to): (9, 37)
+edge (from, to): (10, 26)
+edge (from, to): (10, 22)
+edge (from, to): (10, 23)
+edge (from, to): (11, 30)
+edge (from, to): (12, 16)
+edge (from, to): (12, 34)
+edge (from, to): (12, 31)
+edge (from, to): (13, 29)
+edge (from, to): (13, 22)
+edge (from, to): (14, 18)
+edge (from, to): (14, 22)
+edge (from, to): (15, 33)
+edge (from, to): (16, 24)
+edge (from, to): (17, 28)
+edge (from, to): (18, 28)
+edge (from, to): (20, 23)
+edge (from, to): (21, 30)
+edge (from, to): (21, 23)
+edge (from, to): (23, 34)
+edge (from, to): (25, 26)
+edge (from, to): (27, 33)
+edge (from, to): (28, 38)
+edge (from, to): (28, 39)
+edge (from, to): (32, 35)
+edge (from, to): (32, 38)
+edge (from, to): (33, 38)
+---end-of-common-graph---
+number of nodes:27 	 number of edges:27
+node 0 - type = nodetypeB
+node 1 - type = nodetypeB
+node 2 - type = nodetypeB
+node 3 - type = nodetypeA
+node 4 - type = nodetypeB
+node 5 - type = nodetypeA
+node 6 - type = nodetypeB
+node 7 - type = nodetypeB
+node 8 - type = nodetypeA
+node 9 - type = nodetypeA
+node 10 - type = nodetypeA
+node 11 - type = nodetypeB
+node 12 - type = nodetypeB
+node 13 - type = nodetypeA
+node 14 - type = nodetypeB
+node 15 - type = nodetypeB
+node 16 - type = nodetypeA
+node 17 - type = nodetypeA
+node 18 - type = nodetypeA
+node 19 - type = nodetypeB
+node 20 - type = nodetypeB
+node 21 - type = nodetypeA
+node 22 - type = nodetypeA
+node 23 - type = nodetypeB
+node 24 - type = nodetypeA
+node 25 - type = nodetypeA
+node 26 - type = nodetypeA
+edge (from, to): (0, 24)
+edge (from, to): (0, 22)
+edge (from, to): (0, 23)
+edge (from, to): (1, 8)
+edge (from, to): (1, 20)
+edge (from, to): (2, 4)
+edge (from, to): (3, 20)
+edge (from, to): (3, 21)
+edge (from, to): (4, 12)
+edge (from, to): (5, 26)
+edge (from, to): (6, 9)
+edge (from, to): (7, 10)
+edge (from, to): (7, 13)
+edge (from, to): (7, 21)
+edge (from, to): (8, 24)
+edge (from, to): (8, 9)
+edge (from, to): (9, 16)
+edge (from, to): (9, 25)
+edge (from, to): (10, 25)
+edge (from, to): (10, 11)
+edge (from, to): (12, 25)
+edge (from, to): (14, 19)
+edge (from, to): (15, 18)
+edge (from, to): (17, 25)
+edge (from, to): (18, 19)
+edge (from, to): (18, 20)
+edge (from, to): (22, 26)
+---end-of-common-graph---
+number of nodes:32 	 number of edges:38
+node 0 - type = nodetypeB
+node 1 - type = nodetypeB
+node 2 - type = nodetypeA
+node 3 - type = nodetypeB
+node 4 - type = nodetypeB
+node 5 - type = nodetypeA
+node 6 - type = nodetypeA
+node 7 - type = nodetypeA
+node 8 - type = nodetypeA
+node 9 - type = nodetypeB
+node 10 - type = nodetypeA
+node 11 - type = nodetypeA
+node 12 - type = nodetypeB
+node 13 - type = nodetypeB
+node 14 - type = nodetypeA
+node 15 - type = nodetypeB
+node 16 - type = nodetypeA
+node 17 - type = nodetypeB
+node 18 - type = nodetypeB
+node 19 - type = nodetypeA
+node 20 - type = nodetypeB
+node 21 - type = nodetypeB
+node 22 - type = nodetypeB
+node 23 - type = nodetypeB
+node 24 - type = nodetypeB
+node 25 - type = nodetypeA
+node 26 - type = nodetypeB
+node 27 - type = nodetypeB
+node 28 - type = nodetypeA
+node 29 - type = nodetypeA
+node 30 - type = nodetypeA
+node 31 - type = nodetypeA
+edge (from, to): (0, 8)
+edge (from, to): (0, 24)
+edge (from, to): (1, 21)
+edge (from, to): (2, 9)
+edge (from, to): (2, 10)
+edge (from, to): (3, 11)
+edge (from, to): (3, 17)
+edge (from, to): (3, 18)
+edge (from, to): (3, 20)
+edge (from, to): (3, 26)
+edge (from, to): (3, 28)
+edge (from, to): (4, 28)
+edge (from, to): (5, 30)
+edge (from, to): (5, 7)
+edge (from, to): (6, 24)
+edge (from, to): (6, 21)
+edge (from, to): (8, 10)
+edge (from, to): (8, 28)
+edge (from, to): (8, 22)
+edge (from, to): (10, 19)
+edge (from, to): (10, 28)
+edge (from, to): (10, 29)
+edge (from, to): (12, 18)
+edge (from, to): (12, 28)
+edge (from, to): (12, 14)
+edge (from, to): (13, 20)
+edge (from, to): (15, 20)
+edge (from, to): (16, 26)
+edge (from, to): (16, 22)
+edge (from, to): (16, 23)
+edge (from, to): (18, 28)
+edge (from, to): (18, 26)
+edge (from, to): (20, 24)
+edge (from, to): (21, 23)
+edge (from, to): (22, 31)
+edge (from, to): (24, 30)
+edge (from, to): (25, 31)
+edge (from, to): (27, 29)
+---end-of-common-graph---
+number of nodes:27 	 number of edges:29
+node 0 - type = nodetypeB
+node 1 - type = nodetypeB
+node 2 - type = nodetypeB
+node 3 - type = nodetypeA
+node 4 - type = nodetypeA
+node 5 - type = nodetypeA
+node 6 - type = nodetypeA
+node 7 - type = nodetypeA
+node 8 - type = nodetypeB
+node 9 - type = nodetypeA
+node 10 - type = nodetypeB
+node 11 - type = nodetypeB
+node 12 - type = nodetypeB
+node 13 - type = nodetypeA
+node 14 - type = nodetypeA
+node 15 - type = nodetypeA
+node 16 - type = nodetypeA
+node 17 - type = nodetypeA
+node 18 - type = nodetypeB
+node 19 - type = nodetypeB
+node 20 - type = nodetypeB
+node 21 - type = nodetypeA
+node 22 - type = nodetypeA
+node 23 - type = nodetypeB
+node 24 - type = nodetypeB
+node 25 - type = nodetypeB
+node 26 - type = nodetypeA
+edge (from, to): (0, 18)
+edge (from, to): (0, 26)
+edge (from, to): (0, 22)
+edge (from, to): (1, 10)
+edge (from, to): (1, 5)
+edge (from, to): (1, 23)
+edge (from, to): (2, 12)
+edge (from, to): (3, 11)
+edge (from, to): (4, 16)
+edge (from, to): (4, 9)
+edge (from, to): (5, 22)
+edge (from, to): (6, 9)
+edge (from, to): (6, 17)
+edge (from, to): (7, 11)
+edge (from, to): (8, 24)
+edge (from, to): (8, 22)
+edge (from, to): (9, 15)
+edge (from, to): (10, 26)
+edge (from, to): (10, 19)
+edge (from, to): (10, 12)
+edge (from, to): (11, 23)
+edge (from, to): (11, 25)
+edge (from, to): (12, 24)
+edge (from, to): (13, 16)
+edge (from, to): (13, 19)
+edge (from, to): (14, 18)
+edge (from, to): (16, 20)
+edge (from, to): (17, 22)
+edge (from, to): (18, 21)
+---end-of-common-graph---
+number of nodes:32 	 number of edges:39
+node 0 - type = nodetypeB
+node 1 - type = nodetypeB
+node 2 - type = nodetypeA
+node 3 - type = nodetypeA
+node 4 - type = nodetypeA
+node 5 - type = nodetypeB
+node 6 - type = nodetypeB
+node 7 - type = nodetypeA
+node 8 - type = nodetypeA
+node 9 - type = nodetypeB
+node 10 - type = nodetypeB
+node 11 - type = nodetypeB
+node 12 - type = nodetypeA
+node 13 - type = nodetypeA
+node 14 - type = nodetypeA
+node 15 - type = nodetypeA
+node 16 - type = nodetypeB
+node 17 - type = nodetypeA
+node 18 - type = nodetypeB
+node 19 - type = nodetypeA
+node 20 - type = nodetypeB
+node 21 - type = nodetypeA
+node 22 - type = nodetypeB
+node 23 - type = nodetypeB
+node 24 - type = nodetypeB
+node 25 - type = nodetypeB
+node 26 - type = nodetypeA
+node 27 - type = nodetypeA
+node 28 - type = nodetypeA
+node 29 - type = nodetypeB
+node 30 - type = nodetypeB
+node 31 - type = nodetypeA
+edge (from, to): (0, 25)
+edge (from, to): (0, 10)
+edge (from, to): (1, 27)
+edge (from, to): (1, 3)
+edge (from, to): (2, 27)
+edge (from, to): (2, 20)
+edge (from, to): (2, 14)
+edge (from, to): (3, 15)
+edge (from, to): (4, 8)
+edge (from, to): (5, 17)
+edge (from, to): (5, 26)
+edge (from, to): (5, 29)
+edge (from, to): (5, 25)
+edge (from, to): (6, 16)
+edge (from, to): (7, 8)
+edge (from, to): (8, 25)
+edge (from, to): (8, 18)
+edge (from, to): (9, 27)
+edge (from, to): (10, 26)
+edge (from, to): (10, 30)
+edge (from, to): (10, 31)
+edge (from, to): (11, 12)
+edge (from, to): (11, 29)
+edge (from, to): (12, 28)
+edge (from, to): (12, 30)
+edge (from, to): (13, 31)
+edge (from, to): (14, 29)
+edge (from, to): (14, 22)
+edge (from, to): (16, 20)
+edge (from, to): (17, 18)
+edge (from, to): (17, 26)
+edge (from, to): (18, 19)
+edge (from, to): (18, 21)
+edge (from, to): (20, 24)
+edge (from, to): (22, 23)
+edge (from, to): (23, 24)
+edge (from, to): (24, 27)
+edge (from, to): (25, 28)
+edge (from, to): (26, 30)
+---end-of-common-graph---
+number of nodes:34 	 number of edges:33
+node 0 - type = nodetypeA
+node 1 - type = nodetypeB
+node 2 - type = nodetypeB
+node 3 - type = nodetypeB
+node 4 - type = nodetypeA
+node 5 - type = nodetypeB
+node 6 - type = nodetypeB
+node 7 - type = nodetypeB
+node 8 - type = nodetypeA
+node 9 - type = nodetypeA
+node 10 - type = nodetypeB
+node 11 - type = nodetypeA
+node 12 - type = nodetypeA
+node 13 - type = nodetypeB
+node 14 - type = nodetypeA
+node 15 - type = nodetypeA
+node 16 - type = nodetypeB
+node 17 - type = nodetypeB
+node 18 - type = nodetypeB
+node 19 - type = nodetypeB
+node 20 - type = nodetypeB
+node 21 - type = nodetypeA
+node 22 - type = nodetypeB
+node 23 - type = nodetypeB
+node 24 - type = nodetypeB
+node 25 - type = nodetypeA
+node 26 - type = nodetypeB
+node 27 - type = nodetypeA
+node 28 - type = nodetypeA
+node 29 - type = nodetypeB
+node 30 - type = nodetypeB
+node 31 - type = nodetypeB
+node 32 - type = nodetypeB
+node 33 - type = nodetypeB
+edge (from, to): (0, 1)
+edge (from, to): (1, 2)
+edge (from, to): (2, 3)
+edge (from, to): (3, 4)
+edge (from, to): (4, 5)
+edge (from, to): (5, 6)
+edge (from, to): (6, 7)
+edge (from, to): (7, 8)
+edge (from, to): (8, 9)
+edge (from, to): (9, 10)
+edge (from, to): (10, 11)
+edge (from, to): (11, 12)
+edge (from, to): (12, 13)
+edge (from, to): (13, 14)
+edge (from, to): (14, 15)
+edge (from, to): (15, 16)
+edge (from, to): (16, 17)
+edge (from, to): (17, 18)
+edge (from, to): (18, 19)
+edge (from, to): (19, 20)
+edge (from, to): (20, 21)
+edge (from, to): (21, 22)
+edge (from, to): (22, 23)
+edge (from, to): (23, 24)
+edge (from, to): (24, 25)
+edge (from, to): (25, 26)
+edge (from, to): (26, 27)
+edge (from, to): (27, 28)
+edge (from, to): (28, 29)
+edge (from, to): (29, 30)
+edge (from, to): (30, 31)
+edge (from, to): (31, 32)
+edge (from, to): (32, 33)
+---end-of-common-graph---
+number of nodes:28 	 number of edges:27
+node 0 - type = nodetypeA
+node 1 - type = nodetypeA
+node 2 - type = nodetypeB
+node 3 - type = nodetypeB
+node 4 - type = nodetypeA
+node 5 - type = nodetypeA
+node 6 - type = nodetypeB
+node 7 - type = nodetypeA
+node 8 - type = nodetypeA
+node 9 - type = nodetypeA
+node 10 - type = nodetypeA
+node 11 - type = nodetypeB
+node 12 - type = nodetypeB
+node 13 - type = nodetypeA
+node 14 - type = nodetypeB
+node 15 - type = nodetypeA
+node 16 - type = nodetypeB
+node 17 - type = nodetypeA
+node 18 - type = nodetypeB
+node 19 - type = nodetypeB
+node 20 - type = nodetypeA
+node 21 - type = nodetypeB
+node 22 - type = nodetypeB
+node 23 - type = nodetypeA
+node 24 - type = nodetypeA
+node 25 - type = nodetypeB
+node 26 - type = nodetypeB
+node 27 - type = nodetypeA
+edge (from, to): (0, 1)
+edge (from, to): (1, 2)
+edge (from, to): (2, 3)
+edge (from, to): (3, 4)
+edge (from, to): (4, 5)
+edge (from, to): (5, 6)
+edge (from, to): (6, 7)
+edge (from, to): (7, 8)
+edge (from, to): (8, 9)
+edge (from, to): (9, 10)
+edge (from, to): (10, 11)
+edge (from, to): (11, 12)
+edge (from, to): (12, 13)
+edge (from, to): (13, 14)
+edge (from, to): (14, 15)
+edge (from, to): (15, 16)
+edge (from, to): (16, 17)
+edge (from, to): (17, 18)
+edge (from, to): (18, 19)
+edge (from, to): (19, 20)
+edge (from, to): (20, 21)
+edge (from, to): (21, 22)
+edge (from, to): (22, 23)
+edge (from, to): (23, 24)
+edge (from, to): (24, 25)
+edge (from, to): (25, 26)
+edge (from, to): (26, 27)
+---end-of-common-graph---
+number of nodes:39 	 number of edges:38
+node 0 - type = nodetypeA
+node 1 - type = nodetypeA
+node 2 - type = nodetypeA
+node 3 - type = nodetypeA
+node 4 - type = nodetypeA
+node 5 - type = nodetypeB
+node 6 - type = nodetypeA
+node 7 - type = nodetypeB
+node 8 - type = nodetypeB
+node 9 - type = nodetypeA
+node 10 - type = nodetypeA
+node 11 - type = nodetypeA
+node 12 - type = nodetypeA
+node 13 - type = nodetypeB
+node 14 - type = nodetypeA
+node 15 - type = nodetypeA
+node 16 - type = nodetypeA
+node 17 - type = nodetypeA
+node 18 - type = nodetypeA
+node 19 - type = nodetypeB
+node 20 - type = nodetypeB
+node 21 - type = nodetypeB
+node 22 - type = nodetypeB
+node 23 - type = nodetypeA
+node 24 - type = nodetypeA
+node 25 - type = nodetypeA
+node 26 - type = nodetypeB
+node 27 - type = nodetypeB
+node 28 - type = nodetypeB
+node 29 - type = nodetypeB
+node 30 - type = nodetypeA
+node 31 - type = nodetypeA
+node 32 - type = nodetypeA
+node 33 - type = nodetypeB
+node 34 - type = nodetypeB
+node 35 - type = nodetypeB
+node 36 - type = nodetypeA
+node 37 - type = nodetypeA
+node 38 - type = nodetypeB
+edge (from, to): (0, 1)
+edge (from, to): (1, 2)
+edge (from, to): (2, 3)
+edge (from, to): (3, 4)
+edge (from, to): (4, 5)
+edge (from, to): (5, 6)
+edge (from, to): (6, 7)
+edge (from, to): (7, 8)
+edge (from, to): (8, 9)
+edge (from, to): (9, 10)
+edge (from, to): (10, 11)
+edge (from, to): (11, 12)
+edge (from, to): (12, 13)
+edge (from, to): (13, 14)
+edge (from, to): (14, 15)
+edge (from, to): (15, 16)
+edge (from, to): (16, 17)
+edge (from, to): (17, 18)
+edge (from, to): (18, 19)
+edge (from, to): (19, 20)
+edge (from, to): (20, 21)
+edge (from, to): (21, 22)
+edge (from, to): (22, 23)
+edge (from, to): (23, 24)
+edge (from, to): (24, 25)
+edge (from, to): (25, 26)
+edge (from, to): (26, 27)
+edge (from, to): (27, 28)
+edge (from, to): (28, 29)
+edge (from, to): (29, 30)
+edge (from, to): (30, 31)
+edge (from, to): (31, 32)
+edge (from, to): (32, 33)
+edge (from, to): (33, 34)
+edge (from, to): (34, 35)
+edge (from, to): (35, 36)
+edge (from, to): (36, 37)
+edge (from, to): (37, 38)
+---end-of-common-graph---
+number of nodes:32 	 number of edges:31
+node 0 - type = nodetypeA
+node 1 - type = nodetypeA
+node 2 - type = nodetypeA
+node 3 - type = nodetypeB
+node 4 - type = nodetypeB
+node 5 - type = nodetypeB
+node 6 - type = nodetypeA
+node 7 - type = nodetypeB
+node 8 - type = nodetypeA
+node 9 - type = nodetypeB
+node 10 - type = nodetypeA
+node 11 - type = nodetypeB
+node 12 - type = nodetypeA
+node 13 - type = nodetypeA
+node 14 - type = nodetypeB
+node 15 - type = nodetypeB
+node 16 - type = nodetypeB
+node 17 - type = nodetypeB
+node 18 - type = nodetypeB
+node 19 - type = nodetypeB
+node 20 - type = nodetypeA
+node 21 - type = nodetypeB
+node 22 - type = nodetypeB
+node 23 - type = nodetypeA
+node 24 - type = nodetypeA
+node 25 - type = nodetypeB
+node 26 - type = nodetypeA
+node 27 - type = nodetypeB
+node 28 - type = nodetypeA
+node 29 - type = nodetypeA
+node 30 - type = nodetypeB
+node 31 - type = nodetypeA
+edge (from, to): (0, 1)
+edge (from, to): (1, 2)
+edge (from, to): (2, 3)
+edge (from, to): (3, 4)
+edge (from, to): (4, 5)
+edge (from, to): (5, 6)
+edge (from, to): (6, 7)
+edge (from, to): (7, 8)
+edge (from, to): (8, 9)
+edge (from, to): (9, 10)
+edge (from, to): (10, 11)
+edge (from, to): (11, 12)
+edge (from, to): (12, 13)
+edge (from, to): (13, 14)
+edge (from, to): (14, 15)
+edge (from, to): (15, 16)
+edge (from, to): (16, 17)
+edge (from, to): (17, 18)
+edge (from, to): (18, 19)
+edge (from, to): (19, 20)
+edge (from, to): (20, 21)
+edge (from, to): (21, 22)
+edge (from, to): (22, 23)
+edge (from, to): (23, 24)
+edge (from, to): (24, 25)
+edge (from, to): (25, 26)
+edge (from, to): (26, 27)
+edge (from, to): (27, 28)
+edge (from, to): (28, 29)
+edge (from, to): (29, 30)
+edge (from, to): (30, 31)
+---end-of-common-graph---
+number of nodes:29 	 number of edges:28
+node 0 - type = nodetypeB
+node 1 - type = nodetypeB
+node 2 - type = nodetypeB
+node 3 - type = nodetypeA
+node 4 - type = nodetypeB
+node 5 - type = nodetypeB
+node 6 - type = nodetypeB
+node 7 - type = nodetypeA
+node 8 - type = nodetypeB
+node 9 - type = nodetypeB
+node 10 - type = nodetypeB
+node 11 - type = nodetypeB
+node 12 - type = nodetypeA
+node 13 - type = nodetypeB
+node 14 - type = nodetypeA
+node 15 - type = nodetypeB
+node 16 - type = nodetypeB
+node 17 - type = nodetypeA
+node 18 - type = nodetypeA
+node 19 - type = nodetypeA
+node 20 - type = nodetypeA
+node 21 - type = nodetypeA
+node 22 - type = nodetypeA
+node 23 - type = nodetypeB
+node 24 - type = nodetypeA
+node 25 - type = nodetypeA
+node 26 - type = nodetypeA
+node 27 - type = nodetypeB
+node 28 - type = nodetypeA
+edge (from, to): (0, 1)
+edge (from, to): (1, 2)
+edge (from, to): (2, 3)
+edge (from, to): (3, 4)
+edge (from, to): (4, 5)
+edge (from, to): (5, 6)
+edge (from, to): (6, 7)
+edge (from, to): (7, 8)
+edge (from, to): (8, 9)
+edge (from, to): (9, 10)
+edge (from, to): (10, 11)
+edge (from, to): (11, 12)
+edge (from, to): (12, 13)
+edge (from, to): (13, 14)
+edge (from, to): (14, 15)
+edge (from, to): (15, 16)
+edge (from, to): (16, 17)
+edge (from, to): (17, 18)
+edge (from, to): (18, 19)
+edge (from, to): (19, 20)
+edge (from, to): (20, 21)
+edge (from, to): (21, 22)
+edge (from, to): (22, 23)
+edge (from, to): (23, 24)
+edge (from, to): (24, 25)
+edge (from, to): (25, 26)
+edge (from, to): (26, 27)
+edge (from, to): (27, 28)
+---end-of-common-graph---
+number of nodes:35 	 number of edges:34
+node 0 - type = nodetypeB
+node 1 - type = nodetypeA
+node 2 - type = nodetypeB
+node 3 - type = nodetypeB
+node 4 - type = nodetypeA
+node 5 - type = nodetypeA
+node 6 - type = nodetypeA
+node 7 - type = nodetypeB
+node 8 - type = nodetypeB
+node 9 - type = nodetypeB
+node 10 - type = nodetypeA
+node 11 - type = nodetypeA
+node 12 - type = nodetypeB
+node 13 - type = nodetypeA
+node 14 - type = nodetypeA
+node 15 - type = nodetypeA
+node 16 - type = nodetypeA
+node 17 - type = nodetypeA
+node 18 - type = nodetypeA
+node 19 - type = nodetypeB
+node 20 - type = nodetypeB
+node 21 - type = nodetypeA
+node 22 - type = nodetypeB
+node 23 - type = nodetypeB
+node 24 - type = nodetypeB
+node 25 - type = nodetypeB
+node 26 - type = nodetypeB
+node 27 - type = nodetypeA
+node 28 - type = nodetypeA
+node 29 - type = nodetypeA
+node 30 - type = nodetypeA
+node 31 - type = nodetypeB
+node 32 - type = nodetypeB
+node 33 - type = nodetypeB
+node 34 - type = nodetypeA
+edge (from, to): (0, 1)
+edge (from, to): (1, 2)
+edge (from, to): (2, 3)
+edge (from, to): (3, 4)
+edge (from, to): (4, 5)
+edge (from, to): (5, 6)
+edge (from, to): (6, 7)
+edge (from, to): (7, 8)
+edge (from, to): (8, 9)
+edge (from, to): (9, 10)
+edge (from, to): (10, 11)
+edge (from, to): (11, 12)
+edge (from, to): (12, 13)
+edge (from, to): (13, 14)
+edge (from, to): (14, 15)
+edge (from, to): (15, 16)
+edge (from, to): (16, 17)
+edge (from, to): (17, 18)
+edge (from, to): (18, 19)
+edge (from, to): (19, 20)
+edge (from, to): (20, 21)
+edge (from, to): (21, 22)
+edge (from, to): (22, 23)
+edge (from, to): (23, 24)
+edge (from, to): (24, 25)
+edge (from, to): (25, 26)
+edge (from, to): (26, 27)
+edge (from, to): (27, 28)
+edge (from, to): (28, 29)
+edge (from, to): (29, 30)
+edge (from, to): (30, 31)
+edge (from, to): (31, 32)
+edge (from, to): (32, 33)
+edge (from, to): (33, 34)
+---end-of-common-graph---
+number of nodes:30 	 number of edges:29
+node 0 - type = nodetypeB
+node 1 - type = nodetypeB
+node 2 - type = nodetypeB
+node 3 - type = nodetypeB
+node 4 - type = nodetypeA
+node 5 - type = nodetypeA
+node 6 - type = nodetypeA
+node 7 - type = nodetypeA
+node 8 - type = nodetypeB
+node 9 - type = nodetypeB
+node 10 - type = nodetypeA
+node 11 - type = nodetypeB
+node 12 - type = nodetypeA
+node 13 - type = nodetypeA
+node 14 - type = nodetypeA
+node 15 - type = nodetypeB
+node 16 - type = nodetypeA
+node 17 - type = nodetypeA
+node 18 - type = nodetypeB
+node 19 - type = nodetypeB
+node 20 - type = nodetypeA
+node 21 - type = nodetypeA
+node 22 - type = nodetypeA
+node 23 - type = nodetypeA
+node 24 - type = nodetypeB
+node 25 - type = nodetypeB
+node 26 - type = nodetypeB
+node 27 - type = nodetypeB
+node 28 - type = nodetypeB
+node 29 - type = nodetypeB
+edge (from, to): (0, 1)
+edge (from, to): (1, 2)
+edge (from, to): (2, 3)
+edge (from, to): (3, 4)
+edge (from, to): (4, 5)
+edge (from, to): (5, 6)
+edge (from, to): (6, 7)
+edge (from, to): (7, 8)
+edge (from, to): (8, 9)
+edge (from, to): (9, 10)
+edge (from, to): (10, 11)
+edge (from, to): (11, 12)
+edge (from, to): (12, 13)
+edge (from, to): (13, 14)
+edge (from, to): (14, 15)
+edge (from, to): (15, 16)
+edge (from, to): (16, 17)
+edge (from, to): (17, 18)
+edge (from, to): (18, 19)
+edge (from, to): (19, 20)
+edge (from, to): (20, 21)
+edge (from, to): (21, 22)
+edge (from, to): (22, 23)
+edge (from, to): (23, 24)
+edge (from, to): (24, 25)
+edge (from, to): (25, 26)
+edge (from, to): (26, 27)
+edge (from, to): (27, 28)
+edge (from, to): (28, 29)
+---end-of-common-graph---
+number of nodes:39 	 number of edges:38
+node 0 - type = nodetypeA
+node 1 - type = nodetypeB
+node 2 - type = nodetypeA
+node 3 - type = nodetypeB
+node 4 - type = nodetypeB
+node 5 - type = nodetypeA
+node 6 - type = nodetypeB
+node 7 - type = nodetypeB
+node 8 - type = nodetypeB
+node 9 - type = nodetypeA
+node 10 - type = nodetypeB
+node 11 - type = nodetypeB
+node 12 - type = nodetypeB
+node 13 - type = nodetypeA
+node 14 - type = nodetypeB
+node 15 - type = nodetypeB
+node 16 - type = nodetypeB
+node 17 - type = nodetypeA
+node 18 - type = nodetypeB
+node 19 - type = nodetypeB
+node 20 - type = nodetypeA
+node 21 - type = nodetypeA
+node 22 - type = nodetypeB
+node 23 - type = nodetypeA
+node 24 - type = nodetypeB
+node 25 - type = nodetypeB
+node 26 - type = nodetypeB
+node 27 - type = nodetypeB
+node 28 - type = nodetypeA
+node 29 - type = nodetypeB
+node 30 - type = nodetypeA
+node 31 - type = nodetypeA
+node 32 - type = nodetypeB
+node 33 - type = nodetypeA
+node 34 - type = nodetypeB
+node 35 - type = nodetypeA
+node 36 - type = nodetypeA
+node 37 - type = nodetypeA
+node 38 - type = nodetypeB
+edge (from, to): (0, 1)
+edge (from, to): (1, 2)
+edge (from, to): (2, 3)
+edge (from, to): (3, 4)
+edge (from, to): (4, 5)
+edge (from, to): (5, 6)
+edge (from, to): (6, 7)
+edge (from, to): (7, 8)
+edge (from, to): (8, 9)
+edge (from, to): (9, 10)
+edge (from, to): (10, 11)
+edge (from, to): (11, 12)
+edge (from, to): (12, 13)
+edge (from, to): (13, 14)
+edge (from, to): (14, 15)
+edge (from, to): (15, 16)
+edge (from, to): (16, 17)
+edge (from, to): (17, 18)
+edge (from, to): (18, 19)
+edge (from, to): (19, 20)
+edge (from, to): (20, 21)
+edge (from, to): (21, 22)
+edge (from, to): (22, 23)
+edge (from, to): (23, 24)
+edge (from, to): (24, 25)
+edge (from, to): (25, 26)
+edge (from, to): (26, 27)
+edge (from, to): (27, 28)
+edge (from, to): (28, 29)
+edge (from, to): (29, 30)
+edge (from, to): (30, 31)
+edge (from, to): (31, 32)
+edge (from, to): (32, 33)
+edge (from, to): (33, 34)
+edge (from, to): (34, 35)
+edge (from, to): (35, 36)
+edge (from, to): (36, 37)
+edge (from, to): (37, 38)
+---end-of-common-graph---
+number of nodes:27 	 number of edges:26
+node 0 - type = nodetypeA
+node 1 - type = nodetypeB
+node 2 - type = nodetypeA
+node 3 - type = nodetypeA
+node 4 - type = nodetypeB
+node 5 - type = nodetypeB
+node 6 - type = nodetypeB
+node 7 - type = nodetypeA
+node 8 - type = nodetypeA
+node 9 - type = nodetypeA
+node 10 - type = nodetypeA
+node 11 - type = nodetypeB
+node 12 - type = nodetypeA
+node 13 - type = nodetypeA
+node 14 - type = nodetypeB
+node 15 - type = nodetypeA
+node 16 - type = nodetypeB
+node 17 - type = nodetypeA
+node 18 - type = nodetypeA
+node 19 - type = nodetypeA
+node 20 - type = nodetypeA
+node 21 - type = nodetypeA
+node 22 - type = nodetypeB
+node 23 - type = nodetypeA
+node 24 - type = nodetypeA
+node 25 - type = nodetypeA
+node 26 - type = nodetypeB
+edge (from, to): (0, 1)
+edge (from, to): (1, 2)
+edge (from, to): (2, 3)
+edge (from, to): (3, 4)
+edge (from, to): (4, 5)
+edge (from, to): (5, 6)
+edge (from, to): (6, 7)
+edge (from, to): (7, 8)
+edge (from, to): (8, 9)
+edge (from, to): (9, 10)
+edge (from, to): (10, 11)
+edge (from, to): (11, 12)
+edge (from, to): (12, 13)
+edge (from, to): (13, 14)
+edge (from, to): (14, 15)
+edge (from, to): (15, 16)
+edge (from, to): (16, 17)
+edge (from, to): (17, 18)
+edge (from, to): (18, 19)
+edge (from, to): (19, 20)
+edge (from, to): (20, 21)
+edge (from, to): (21, 22)
+edge (from, to): (22, 23)
+edge (from, to): (23, 24)
+edge (from, to): (24, 25)
+edge (from, to): (25, 26)
+---end-of-common-graph---
+number of nodes:25 	 number of edges:24
+node 0 - type = nodetypeA
+node 1 - type = nodetypeB
+node 2 - type = nodetypeB
+node 3 - type = nodetypeA
+node 4 - type = nodetypeB
+node 5 - type = nodetypeA
+node 6 - type = nodetypeB
+node 7 - type = nodetypeB
+node 8 - type = nodetypeB
+node 9 - type = nodetypeB
+node 10 - type = nodetypeB
+node 11 - type = nodetypeB
+node 12 - type = nodetypeA
+node 13 - type = nodetypeA
+node 14 - type = nodetypeA
+node 15 - type = nodetypeA
+node 16 - type = nodetypeA
+node 17 - type = nodetypeB
+node 18 - type = nodetypeA
+node 19 - type = nodetypeA
+node 20 - type = nodetypeB
+node 21 - type = nodetypeA
+node 22 - type = nodetypeB
+node 23 - type = nodetypeA
+node 24 - type = nodetypeA
+edge (from, to): (0, 1)
+edge (from, to): (1, 2)
+edge (from, to): (2, 3)
+edge (from, to): (3, 4)
+edge (from, to): (4, 5)
+edge (from, to): (5, 6)
+edge (from, to): (6, 7)
+edge (from, to): (7, 8)
+edge (from, to): (8, 9)
+edge (from, to): (9, 10)
+edge (from, to): (10, 11)
+edge (from, to): (11, 12)
+edge (from, to): (12, 13)
+edge (from, to): (13, 14)
+edge (from, to): (14, 15)
+edge (from, to): (15, 16)
+edge (from, to): (16, 17)
+edge (from, to): (17, 18)
+edge (from, to): (18, 19)
+edge (from, to): (19, 20)
+edge (from, to): (20, 21)
+edge (from, to): (21, 22)
+edge (from, to): (22, 23)
+edge (from, to): (23, 24)
+---end-of-common-graph---
+number of nodes:33 	 number of edges:32
+node 0 - type = nodetypeB
+node 1 - type = nodetypeA
+node 2 - type = nodetypeB
+node 3 - type = nodetypeA
+node 4 - type = nodetypeB
+node 5 - type = nodetypeB
+node 6 - type = nodetypeA
+node 7 - type = nodetypeB
+node 8 - type = nodetypeB
+node 9 - type = nodetypeB
+node 10 - type = nodetypeB
+node 11 - type = nodetypeA
+node 12 - type = nodetypeA
+node 13 - type = nodetypeB
+node 14 - type = nodetypeB
+node 15 - type = nodetypeB
+node 16 - type = nodetypeA
+node 17 - type = nodetypeA
+node 18 - type = nodetypeA
+node 19 - type = nodetypeB
+node 20 - type = nodetypeA
+node 21 - type = nodetypeB
+node 22 - type = nodetypeB
+node 23 - type = nodetypeB
+node 24 - type = nodetypeA
+node 25 - type = nodetypeB
+node 26 - type = nodetypeB
+node 27 - type = nodetypeA
+node 28 - type = nodetypeA
+node 29 - type = nodetypeB
+node 30 - type = nodetypeB
+node 31 - type = nodetypeB
+node 32 - type = nodetypeB
+edge (from, to): (0, 1)
+edge (from, to): (1, 2)
+edge (from, to): (2, 3)
+edge (from, to): (3, 4)
+edge (from, to): (4, 5)
+edge (from, to): (5, 6)
+edge (from, to): (6, 7)
+edge (from, to): (7, 8)
+edge (from, to): (8, 9)
+edge (from, to): (9, 10)
+edge (from, to): (10, 11)
+edge (from, to): (11, 12)
+edge (from, to): (12, 13)
+edge (from, to): (13, 14)
+edge (from, to): (14, 15)
+edge (from, to): (15, 16)
+edge (from, to): (16, 17)
+edge (from, to): (17, 18)
+edge (from, to): (18, 19)
+edge (from, to): (19, 20)
+edge (from, to): (20, 21)
+edge (from, to): (21, 22)
+edge (from, to): (22, 23)
+edge (from, to): (23, 24)
+edge (from, to): (24, 25)
+edge (from, to): (25, 26)
+edge (from, to): (26, 27)
+edge (from, to): (27, 28)
+edge (from, to): (28, 29)
+edge (from, to): (29, 30)
+edge (from, to): (30, 31)
+edge (from, to): (31, 32)
+---end-of-common-graph---
+number of nodes:32 	 number of edges:31
+node 0 - type = nodetypeA
+node 1 - type = nodetypeB
+node 2 - type = nodetypeB
+node 3 - type = nodetypeA
+node 4 - type = nodetypeA
+node 5 - type = nodetypeB
+node 6 - type = nodetypeB
+node 7 - type = nodetypeB
+node 8 - type = nodetypeB
+node 9 - type = nodetypeA
+node 10 - type = nodetypeA
+node 11 - type = nodetypeA
+node 12 - type = nodetypeB
+node 13 - type = nodetypeA
+node 14 - type = nodetypeA
+node 15 - type = nodetypeA
+node 16 - type = nodetypeA
+node 17 - type = nodetypeB
+node 18 - type = nodetypeA
+node 19 - type = nodetypeA
+node 20 - type = nodetypeB
+node 21 - type = nodetypeA
+node 22 - type = nodetypeA
+node 23 - type = nodetypeB
+node 24 - type = nodetypeB
+node 25 - type = nodetypeA
+node 26 - type = nodetypeB
+node 27 - type = nodetypeA
+node 28 - type = nodetypeA
+node 29 - type = nodetypeB
+node 30 - type = nodetypeA
+node 31 - type = nodetypeA
+edge (from, to): (0, 1)
+edge (from, to): (1, 2)
+edge (from, to): (2, 3)
+edge (from, to): (3, 4)
+edge (from, to): (4, 5)
+edge (from, to): (5, 6)
+edge (from, to): (6, 7)
+edge (from, to): (7, 8)
+edge (from, to): (8, 9)
+edge (from, to): (9, 10)
+edge (from, to): (10, 11)
+edge (from, to): (11, 12)
+edge (from, to): (12, 13)
+edge (from, to): (13, 14)
+edge (from, to): (14, 15)
+edge (from, to): (15, 16)
+edge (from, to): (16, 17)
+edge (from, to): (17, 18)
+edge (from, to): (18, 19)
+edge (from, to): (19, 20)
+edge (from, to): (20, 21)
+edge (from, to): (21, 22)
+edge (from, to): (22, 23)
+edge (from, to): (23, 24)
+edge (from, to): (24, 25)
+edge (from, to): (25, 26)
+edge (from, to): (26, 27)
+edge (from, to): (27, 28)
+edge (from, to): (28, 29)
+edge (from, to): (29, 30)
+edge (from, to): (30, 31)
+---end-of-common-graph---
+number of nodes:38 	 number of edges:37
+node 0 - type = nodetypeB
+node 1 - type = nodetypeA
+node 2 - type = nodetypeB
+node 3 - type = nodetypeB
+node 4 - type = nodetypeB
+node 5 - type = nodetypeB
+node 6 - type = nodetypeA
+node 7 - type = nodetypeA
+node 8 - type = nodetypeB
+node 9 - type = nodetypeA
+node 10 - type = nodetypeB
+node 11 - type = nodetypeA
+node 12 - type = nodetypeB
+node 13 - type = nodetypeB
+node 14 - type = nodetypeA
+node 15 - type = nodetypeB
+node 16 - type = nodetypeA
+node 17 - type = nodetypeA
+node 18 - type = nodetypeB
+node 19 - type = nodetypeA
+node 20 - type = nodetypeB
+node 21 - type = nodetypeB
+node 22 - type = nodetypeA
+node 23 - type = nodetypeA
+node 24 - type = nodetypeA
+node 25 - type = nodetypeB
+node 26 - type = nodetypeB
+node 27 - type = nodetypeA
+node 28 - type = nodetypeA
+node 29 - type = nodetypeB
+node 30 - type = nodetypeA
+node 31 - type = nodetypeA
+node 32 - type = nodetypeB
+node 33 - type = nodetypeA
+node 34 - type = nodetypeA
+node 35 - type = nodetypeA
+node 36 - type = nodetypeA
+node 37 - type = nodetypeA
+edge (from, to): (0, 1)
+edge (from, to): (1, 2)
+edge (from, to): (2, 3)
+edge (from, to): (3, 4)
+edge (from, to): (4, 5)
+edge (from, to): (5, 6)
+edge (from, to): (6, 7)
+edge (from, to): (7, 8)
+edge (from, to): (8, 9)
+edge (from, to): (9, 10)
+edge (from, to): (10, 11)
+edge (from, to): (11, 12)
+edge (from, to): (12, 13)
+edge (from, to): (13, 14)
+edge (from, to): (14, 15)
+edge (from, to): (15, 16)
+edge (from, to): (16, 17)
+edge (from, to): (17, 18)
+edge (from, to): (18, 19)
+edge (from, to): (19, 20)
+edge (from, to): (20, 21)
+edge (from, to): (21, 22)
+edge (from, to): (22, 23)
+edge (from, to): (23, 24)
+edge (from, to): (24, 25)
+edge (from, to): (25, 26)
+edge (from, to): (26, 27)
+edge (from, to): (27, 28)
+edge (from, to): (28, 29)
+edge (from, to): (29, 30)
+edge (from, to): (30, 31)
+edge (from, to): (31, 32)
+edge (from, to): (32, 33)
+edge (from, to): (33, 34)
+edge (from, to): (34, 35)
+edge (from, to): (35, 36)
+edge (from, to): (36, 37)
+---end-of-common-graph---
+number of nodes:28 	 number of edges:27
+node 0 - type = nodetypeB
+node 1 - type = nodetypeA
+node 2 - type = nodetypeA
+node 3 - type = nodetypeB
+node 4 - type = nodetypeB
+node 5 - type = nodetypeA
+node 6 - type = nodetypeB
+node 7 - type = nodetypeB
+node 8 - type = nodetypeB
+node 9 - type = nodetypeB
+node 10 - type = nodetypeB
+node 11 - type = nodetypeA
+node 12 - type = nodetypeB
+node 13 - type = nodetypeA
+node 14 - type = nodetypeB
+node 15 - type = nodetypeB
+node 16 - type = nodetypeA
+node 17 - type = nodetypeB
+node 18 - type = nodetypeA
+node 19 - type = nodetypeB
+node 20 - type = nodetypeB
+node 21 - type = nodetypeA
+node 22 - type = nodetypeA
+node 23 - type = nodetypeB
+node 24 - type = nodetypeB
+node 25 - type = nodetypeB
+node 26 - type = nodetypeA
+node 27 - type = nodetypeA
+edge (from, to): (0, 1)
+edge (from, to): (1, 2)
+edge (from, to): (2, 3)
+edge (from, to): (3, 4)
+edge (from, to): (4, 5)
+edge (from, to): (5, 6)
+edge (from, to): (6, 7)
+edge (from, to): (7, 8)
+edge (from, to): (8, 9)
+edge (from, to): (9, 10)
+edge (from, to): (10, 11)
+edge (from, to): (11, 12)
+edge (from, to): (12, 13)
+edge (from, to): (13, 14)
+edge (from, to): (14, 15)
+edge (from, to): (15, 16)
+edge (from, to): (16, 17)
+edge (from, to): (17, 18)
+edge (from, to): (18, 19)
+edge (from, to): (19, 20)
+edge (from, to): (20, 21)
+edge (from, to): (21, 22)
+edge (from, to): (22, 23)
+edge (from, to): (23, 24)
+edge (from, to): (24, 25)
+edge (from, to): (25, 26)
+edge (from, to): (26, 27)
+---end-of-common-graph---
+number of nodes:37 	 number of edges:36
+node 0 - type = nodetypeA
+node 1 - type = nodetypeA
+node 2 - type = nodetypeA
+node 3 - type = nodetypeA
+node 4 - type = nodetypeB
+node 5 - type = nodetypeA
+node 6 - type = nodetypeA
+node 7 - type = nodetypeA
+node 8 - type = nodetypeA
+node 9 - type = nodetypeA
+node 10 - type = nodetypeB
+node 11 - type = nodetypeA
+node 12 - type = nodetypeA
+node 13 - type = nodetypeB
+node 14 - type = nodetypeA
+node 15 - type = nodetypeA
+node 16 - type = nodetypeB
+node 17 - type = nodetypeB
+node 18 - type = nodetypeA
+node 19 - type = nodetypeB
+node 20 - type = nodetypeB
+node 21 - type = nodetypeB
+node 22 - type = nodetypeA
+node 23 - type = nodetypeB
+node 24 - type = nodetypeA
+node 25 - type = nodetypeB
+node 26 - type = nodetypeB
+node 27 - type = nodetypeA
+node 28 - type = nodetypeB
+node 29 - type = nodetypeB
+node 30 - type = nodetypeB
+node 31 - type = nodetypeA
+node 32 - type = nodetypeB
+node 33 - type = nodetypeB
+node 34 - type = nodetypeA
+node 35 - type = nodetypeA
+node 36 - type = nodetypeB
+edge (from, to): (0, 1)
+edge (from, to): (1, 2)
+edge (from, to): (2, 3)
+edge (from, to): (3, 4)
+edge (from, to): (4, 5)
+edge (from, to): (5, 6)
+edge (from, to): (6, 7)
+edge (from, to): (7, 8)
+edge (from, to): (8, 9)
+edge (from, to): (9, 10)
+edge (from, to): (10, 11)
+edge (from, to): (11, 12)
+edge (from, to): (12, 13)
+edge (from, to): (13, 14)
+edge (from, to): (14, 15)
+edge (from, to): (15, 16)
+edge (from, to): (16, 17)
+edge (from, to): (17, 18)
+edge (from, to): (18, 19)
+edge (from, to): (19, 20)
+edge (from, to): (20, 21)
+edge (from, to): (21, 22)
+edge (from, to): (22, 23)
+edge (from, to): (23, 24)
+edge (from, to): (24, 25)
+edge (from, to): (25, 26)
+edge (from, to): (26, 27)
+edge (from, to): (27, 28)
+edge (from, to): (28, 29)
+edge (from, to): (29, 30)
+edge (from, to): (30, 31)
+edge (from, to): (31, 32)
+edge (from, to): (32, 33)
+edge (from, to): (33, 34)
+edge (from, to): (34, 35)
+edge (from, to): (35, 36)
+---end-of-common-graph---
+number of nodes:32 	 number of edges:31
+node 0 - type = nodetypeB
+node 1 - type = nodetypeB
+node 2 - type = nodetypeB
+node 3 - type = nodetypeA
+node 4 - type = nodetypeA
+node 5 - type = nodetypeB
+node 6 - type = nodetypeA
+node 7 - type = nodetypeB
+node 8 - type = nodetypeB
+node 9 - type = nodetypeB
+node 10 - type = nodetypeB
+node 11 - type = nodetypeA
+node 12 - type = nodetypeB
+node 13 - type = nodetypeB
+node 14 - type = nodetypeA
+node 15 - type = nodetypeA
+node 16 - type = nodetypeB
+node 17 - type = nodetypeB
+node 18 - type = nodetypeB
+node 19 - type = nodetypeA
+node 20 - type = nodetypeA
+node 21 - type = nodetypeA
+node 22 - type = nodetypeA
+node 23 - type = nodetypeB
+node 24 - type = nodetypeA
+node 25 - type = nodetypeA
+node 26 - type = nodetypeA
+node 27 - type = nodetypeA
+node 28 - type = nodetypeB
+node 29 - type = nodetypeB
+node 30 - type = nodetypeB
+node 31 - type = nodetypeA
+edge (from, to): (0, 1)
+edge (from, to): (1, 2)
+edge (from, to): (2, 3)
+edge (from, to): (3, 4)
+edge (from, to): (4, 5)
+edge (from, to): (5, 6)
+edge (from, to): (6, 7)
+edge (from, to): (7, 8)
+edge (from, to): (8, 9)
+edge (from, to): (9, 10)
+edge (from, to): (10, 11)
+edge (from, to): (11, 12)
+edge (from, to): (12, 13)
+edge (from, to): (13, 14)
+edge (from, to): (14, 15)
+edge (from, to): (15, 16)
+edge (from, to): (16, 17)
+edge (from, to): (17, 18)
+edge (from, to): (18, 19)
+edge (from, to): (19, 20)
+edge (from, to): (20, 21)
+edge (from, to): (21, 22)
+edge (from, to): (22, 23)
+edge (from, to): (23, 24)
+edge (from, to): (24, 25)
+edge (from, to): (25, 26)
+edge (from, to): (26, 27)
+edge (from, to): (27, 28)
+edge (from, to): (28, 29)
+edge (from, to): (29, 30)
+edge (from, to): (30, 31)
+---end-of-common-graph---

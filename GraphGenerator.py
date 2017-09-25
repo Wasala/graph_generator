@@ -1,5 +1,5 @@
 from random import randint, random, choice
-
+import copy
 import matplotlib.pyplot as plt
 import networkx as nx
 
@@ -8,7 +8,7 @@ from GraphParameters import GraphParameters
 
 
 class GraphGenerator:
-    def __init__(self, common_graph=None, min_no_of_nodes=1, max_no_of_total_nodes=15, probability_edge_creation=0):
+    def __init__(self, common_graph=None, min_no_of_nodes=1, max_no_of_total_nodes=15, probability_edge_creation=0, max_no_of_total_edges = 80):
         """ Initialize parameters for generating a connected graph G using networkx library.
        Paramters
        ---------
@@ -28,10 +28,11 @@ class GraphGenerator:
        Examples
        --------
        >>> G = GraphGenerator()
-       >>> G = GraphGenerator(min_no_of_nodes = 1,max_no_of_total_nodes = 10, probability_edge_creation= 0.1)
+       >>> G = GraphGenerator(min_no_of_nodes = 1,max_no_of_total_nodes = 10, probability_edge_creation= 0.1, max_no_of_total_edges = 60)
        """
 
         self.max_no_of_total_nodes = max_no_of_total_nodes
+        self.max_no_of_total_edges = max_no_of_total_edges
         self.probability_edge_creation = probability_edge_creation
         self.current_graph = None
 
@@ -39,13 +40,18 @@ class GraphGenerator:
         self.common_graph_no_of_nodes = 0
         self.common_graph_node_set = set()
         self.max_number_of_possible_nodes_to_add = 0
+
+        self.max_number_of_possible_nodes_to_add = 0
+
         if self.common_graph:
             self.common_graph_no_of_nodes = nx.number_of_nodes(self.common_graph)
             self.self_common_graph_node_set = nx.nodes(self.common_graph)
-            self.current_graph = self.common_graph
+            self.current_graph = copy.deepcopy(self.common_graph)
             self.max_number_of_possible_nodes_to_add = self.max_no_of_total_nodes - self.common_graph_no_of_nodes
+            self.max_number_of_possible_edges_to_add = max(self.max_no_of_total_edges - self.common_graph.number_of_edges(),0)
 
-    def generate_graph(self, display_added_edges=False):
+
+    def generate_graph(self, display_added_edges=False, display_removed_edges=False):
         """
         Main method for generating graphs. It will generate a connected graph with the pre-initialized settings (through the constructor).
         :param display_added_edges:  whether to show two diagram with pre and post status after adding edges (for debugging purpose)
@@ -56,7 +62,7 @@ class GraphGenerator:
             cg = CommonGraphGenerator()
             self.current_graph = cg.generate_graph()
         else:
-
+            self.current_graph = copy.deepcopy(self.common_graph)
             number_of_possible_nodes_to_add = randint(0,
                                                       self.max_number_of_possible_nodes_to_add)  # randomly decide the number of new nodes to be added to current common graph
 
@@ -73,7 +79,15 @@ class GraphGenerator:
                     added_nodes.add(node_id)
                     node_id += 1
 
-            if display_added_edges:  # this is for showing the pre-status before adding random edges between nodes
+            if self.max_number_of_possible_edges_to_add >= 0:
+                number_of_possible_edges_to_add = randint(0, self.max_number_of_possible_edges_to_add)
+                while self.max_number_of_possible_edges_to_add > 0 and number_of_possible_edges_to_add == 0:  # try best to add aleast 1 node, if possible
+                    number_of_possible_edges_to_add = randint(0, self.max_number_of_possible_edges_to_add)
+            else:
+                raise Exception("Unable to add more edges as total count of edges of common graph equal or exceeds the maxium number of edges of the graph.")
+                number_of_possible_edges_to_add = 80
+
+            if display_added_edges or display_removed_edges:  # this is for showing the pre-status before adding random edges between nodes
                 plt.figure(1);
                 plt.clf()
                 fig, ax = plt.subplots(2, 1, num=1, sharex=True, sharey=True)
@@ -81,20 +95,49 @@ class GraphGenerator:
                 nx.draw_networkx(self.current_graph, pos=pos, ax=ax[0])
 
             is_connected = None
-            temp = []  # holds a list of randomly added edges
+            all_added_edges = []  # holds a list of randomly added edges
+            all_removed_edges = []  # holds a list of randomly added edges
+            #print "Trying to add %d edges. Common graph already has %d edges." % (number_of_possible_edges_to_add,self.current_graph.number_of_edges())
+            added_edge_count = 0
+            attempt = 0
             while is_connected is None or not is_connected:  # randomly add edges until the graph is connected
-                new_edges = self.add_random_edge()
-                temp.extend(new_edges)
+                attempt  += 1
+                if attempt > 20000: #nasty hack. if stuck, regeneate the whole graph.
+                    return self.generate_graph()
+                if added_edge_count > number_of_possible_edges_to_add:
+                        if all_added_edges:
+                            number_of_edges_to_remove = randint(1, len(all_added_edges))
+                            for i in range(number_of_edges_to_remove):
+                                removed_edge = choice(all_added_edges)
+                                added_edge_count -= 1
+                                all_added_edges.remove(removed_edge)
+                                node, edge = removed_edge
+                                self.current_graph.remove_edge(node, edge)
+                else:
+                    new_edges = self.add_random_edge()
+                    if new_edges:
+                        added_edge_count += 1
+                        all_added_edges.extend(new_edges)
+                #    all_removed_edges.extend(removed_edges)
+
+                #print "edge count: %d" % added_edge_count
                 is_connected = nx.is_connected(self.current_graph)
 
             if display_added_edges:
                 # draw a new version of the graph and highlight changes for debugging purpose
                 nx.draw_networkx(self.current_graph, pos=pos, ax=ax[1])
-                nx.draw_networkx_edges(self.current_graph, pos=pos, ax=ax[1], edgelist=temp,
+                nx.draw_networkx_edges(self.current_graph, pos=pos, ax=ax[1], edgelist=all_added_edges,
+                                       edge_color='b', width=4)
+                plt.show()
+            if display_removed_edges:
+                # draw a new version of the graph and highlight changes for debugging purpose
+                nx.draw_networkx(self.current_graph, pos=pos, ax=ax[1])
+                nx.draw_networkx_edges(self.current_graph, pos=pos, ax=ax[1], edgelist=all_removed_edges,
                                        edge_color='b', width=4)
                 plt.show()
 
-        # now add all the other GRAPH attributes (note the node attributes)
+
+    # now add all the other GRAPH attributes (note the node attributes)
         self.add_graph_attributes()
 
         return self.current_graph
@@ -125,7 +168,10 @@ class GraphGenerator:
         """
         if self.current_graph:
             new_edges = []
-            for node in self.current_graph.nodes():
+            edge_added = False
+            attempt = 0
+            while not edge_added:
+                node = choice(self.current_graph.nodes())
                 # find the other nodes this one is connected to
                 connected = [to for (fr, to) in self.current_graph.edges(node)]
                 # and find the remainder of nodes, which are candidates for new edges
@@ -133,14 +179,42 @@ class GraphGenerator:
 
                 # probabilistically add a random edge
                 if len(unconnected):  # only try if new edge is possible
-                    if random() < probability_of_new_connection:
-                        new = choice(unconnected)
-                        self.current_graph.add_edge(node, new)
-                        new_edges.append((node, new))
-                        # book-keeping, in case both add and remove done in same cycle
-                        unconnected.remove(new)
-                        connected.append(new)
+                    #if random() < probability_of_new_connection:
+                    new = choice(unconnected)
+                    self.current_graph.add_edge(node, new)
+                    new_edges.append((node, new))
+                    # book-keeping, in case both add and remove done in same cycle
+                    unconnected.remove(new)
+                    connected.append(new)
+                    edge_added = True
+                #if not edge_added and attempt > 2000:
             return new_edges
+
+    def remove_random_edge(self, probability_of_delete_connection=0.1):
+        """
+        randomly adds edges between nodes with no existing edges.
+        based on: https://stackoverflow.com/questions/42591549/add-and-delete-a-random-edge-in-networkx
+        :param probability_of_new_connection:
+        :return: None
+        """
+        if self.current_graph:
+            removed_edges = []
+            for node in self.current_graph.nodes():
+                # find the other nodes this one is connected to
+                connected = [to for (fr, to) in self.current_graph.edges(node)]
+                # and find the remainder of nodes, which are candidates for new edges
+                unconnected = [n for n in self.current_graph.nodes() if not n in connected]
+
+                # probabilistically add a random edge
+                if len(connected):  # only try if new edge is possible
+                    if random() < probability_of_delete_connection:
+                        remove = choice(connected)
+                        self.current_graph.remove_edge(node, remove)
+                        removed_edges.append((node, remove))
+                        # book-keeping, in case both add and remove done in same cycle
+                        connected.remove(remove)
+                        unconnected.append(remove)
+            return removed_edges
 
     def list_nodes(self):
         """
